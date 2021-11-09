@@ -14,7 +14,7 @@ Gesammelte Unterlagen für Kurse an der HTL-Leonding.
 
 
 
-[cprsw]: https://github.com/UnterrainerInformatik/htl/raw/master/CPRSW.md
-[nvsv]: https://github.com/UnterrainerInformatik/htl/raw/master/NVSV.md
+[cprsw]: CPRSW.md
+[nvsv]: NVSV.md
 
 
