@@ -53,8 +53,9 @@ Datenbankanbindung H2
 	https://quarkus.io/guides/hibernate-orm
 	------------> STAND B:
 		JPA Hibernate project begonnen (H2)... Als nächstes Code aus Example kopieren.
+	https://quarkus.io/guides/hibernate-orm-panache
 	------------> STAND C:
-		JPA Hibernate project begonnen (H2) sollte starten, und DB anlegen
+		JPA Panache project begonnen (H2) sollte starten, und DB anlegen
 		nächstes Mal die JPAs designen für das jeweilige Projekt
 	https://quarkus.io/guides/transaction
 ```
