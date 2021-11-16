@@ -40,7 +40,9 @@
 	Repo als remote eintragen und pushen
 
 ------------> STAND Gruppe 1 HW (SW Supplierung) 
+
 ------------> STAND Gruppe 2 SW 
+
 ------------> STAND Gruppe 3 PI
 
     Zusatzfelder - Wie werde ich gefunden
