@@ -29,9 +29,9 @@
   		Git commit
   		Branches wechseln
 
-------------> STAND Gruppe 1
+------------> STAND Gruppe 1 HW
 
-------------> STAND Gruppe 2
+------------> STAND Gruppe 2 SW
 
 #### GitHub
 
@@ -43,7 +43,7 @@
 		Repo anlegen
 	Repo als remote eintragen und pushen
 
-------------> STAND Gruppe 3
+------------> STAND Gruppe 3 PI
 
     Zusatzfelder - Wie werde ich gefunden
     	Organisationen
