@@ -29,20 +29,18 @@
   		Git commit
   		Branches wechseln
 
-------------> STAND Gruppe 1 HW
-
-------------> STAND Gruppe 2 SW
-
 #### GitHub
 
 	https://www.youtube.com/watch?v=w3jLJU7DT5E
 		Anmelden
 		Classroom invitation link 2CHITM
-			https://classroom.github.com/a/0jCx6BwO
+			https://classroom.github.com/a/oZgD1JZH
 	Repo clonen
 		Repo anlegen
 	Repo als remote eintragen und pushen
 
+------------> STAND Gruppe 1 HW (SW Supplierung)
+------------> STAND Gruppe 2 SW
 ------------> STAND Gruppe 3 PI
 
     Zusatzfelder - Wie werde ich gefunden
