@@ -54,12 +54,13 @@ Datenbankanbindung H2
 		JPA Hibernate project begonnen (H2)... Als nächstes Code aus Example kopieren.
 	https://quarkus.io/guides/hibernate-orm-panache
 		JPA Panache project begonnen (H2) sollte starten, und DB anlegen
-		nächstes Mal die JPAs designen für das jeweilige Projekt
 	https://quarkus.io/guides/rest-data-panache
 	------------> STAND B:
 		JPA REST Panache begonnen. Alle sollten mal die Dependencies drinnen haben.
 		reactive-panache - Pom-Eintrag ändern auf -panache... dann geht die Exception weg.
 	------------> STAND C:
+	nächstes Mal die JPAs designen für das jeweilige Projekt
+	
 	https://quarkus.io/guides/transaction
 ```
 
