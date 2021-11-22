@@ -50,9 +50,10 @@
     	Teams
 
 #### Remote
-
-	Some servers
-		GitHub https://github.com/
+	Umgang mit remote repositories üben.
+	Als Maintainer.
+	Als Unterstützer.
+	(anlegen, PRs machen, Code-Reviews durchspielen, ...)
 
 
 
