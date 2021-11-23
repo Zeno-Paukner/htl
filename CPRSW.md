@@ -39,11 +39,11 @@
 		Repo anlegen
 	Repo als remote eintragen und pushen
 
-------------> STAND Gruppe 1 HW (SW Supplierung) 
+------------> STAND Gruppe 1 SW,HW (SW Supplierung) 
 
-------------> STAND Gruppe 2 SW 
+------------> STAND Gruppe 2 PI,SW 
 
-------------> STAND Gruppe 3 PI
+------------> STAND Gruppe 3 HW,PI
 
     Zusatzfelder - Wie werde ich gefunden
     	Organisationen
