@@ -59,9 +59,9 @@ Datenbankanbindung H2
 		reactive-panache - Pom-Eintrag ändern auf -panache... dann geht die Exception weg.
 	------------> STAND C:
 		Projekt nochmal durchgehen, damit es wirklich auch bei allen läuft
+	nächstes Mal die JPAs designen und besprechen für das jeweilige Projekt
 	------------> STAND B:
-	nächstes Mal die JPAs designen für das jeweilige Projekt
-	
+	Dienste bauen
 	https://quarkus.io/guides/transaction
 ```
 
