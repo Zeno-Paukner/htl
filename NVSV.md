@@ -57,12 +57,19 @@ Datenbankanbindung H2
 	https://quarkus.io/guides/rest-data-panache
 		JPA REST Panache begonnen. Alle sollten mal die Dependencies drinnen haben.
 		reactive-panache - Pom-Eintrag ändern auf -panache... dann geht die Exception weg.
-	------------> STAND C:
+	
 		Projekt nochmal durchgehen, damit es wirklich auch bei allen läuft
 	nächstes Mal die JPAs designen und besprechen für das jeweilige Projekt
 	------------> STAND B:
+	------------> STAND C:
+	Besprechungen fertig abhalten
+	Home-Automation Diplomarbeit fragen
 	Dienste bauen
+	
+	Mögliche Folgetutorials
 	https://quarkus.io/guides/transaction
+	Keycloak
+	Swagger
 ```
 
 #### CDI
