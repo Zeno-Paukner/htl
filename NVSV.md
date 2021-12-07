@@ -60,12 +60,12 @@ Datenbankanbindung H2
 	
 		Projekt nochmal durchgehen, damit es wirklich auch bei allen läuft
 	nächstes Mal die JPAs designen und besprechen für das jeweilige Projekt
-	------------> STAND B:
 	------------> STAND C:
 	Besprechungen fertig abhalten
+	OAuth 2.0 / OpenID Connect
+	------------> STAND B:
 	Home-Automation Diplomarbeit fragen
 	Dienste bauen
-	OAuth 2.0 / OpenID Connect
 	
 	Mögliche Folgetutorials
 	https://quarkus.io/guides/transaction
