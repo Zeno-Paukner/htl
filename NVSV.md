@@ -65,6 +65,7 @@ Datenbankanbindung H2
 	Besprechungen fertig abhalten
 	Home-Automation Diplomarbeit fragen
 	Dienste bauen
+	OAuth 2.0 / OpenID Connect
 	
 	Mögliche Folgetutorials
 	https://quarkus.io/guides/transaction
