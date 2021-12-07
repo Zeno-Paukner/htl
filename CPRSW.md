@@ -39,11 +39,10 @@
 		Repo anlegen
 	Repo als remote eintragen und pushen
 
-------------> STAND Gruppe 2 HW,PI,SW 
-
 	Überblick über Github mit allen Möglichkeiten
-------------> STAND Gruppe 1 PI,SW,HW (SW Supplierung) 
-------------> STAND Gruppe 3 SW,HW,PI
+------------> STAND Gruppe 1 HW,PI,SW,HW (SW Supplierung) 
+------------> STAND Gruppe 3 PI,SW,HW,PI
+------------> STAND Gruppe 2 SE,HW,PI,SW 
 
     Zusatzfelder - Wie werde ich gefunden
     	Organisationen
