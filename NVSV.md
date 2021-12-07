@@ -65,6 +65,7 @@ Datenbankanbindung H2
 	OAuth 2.0 / OpenID Connect
 	------------> STAND B:
 	Home-Automation Diplomarbeit fragen
+	Lombok
 	Dienste bauen
 	
 	Mögliche Folgetutorials
