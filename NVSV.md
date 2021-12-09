@@ -60,10 +60,10 @@ Datenbankanbindung H2
 	
 		Projekt nochmal durchgehen, damit es wirklich auch bei allen läuft
 	nächstes Mal die JPAs designen und besprechen für das jeweilige Projekt
-	------------> STAND C:
 	Besprechungen fertig abhalten
 	OAuth 2.0 / OpenID Connect
 	------------> STAND B:
+	------------> STAND C:
 	Home-Automation Diplomarbeit fragen
 	Lombok
 	Dienste bauen
