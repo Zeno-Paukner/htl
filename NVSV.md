@@ -62,17 +62,17 @@ Datenbankanbindung H2
 	nächstes Mal die JPAs designen und besprechen für das jeweilige Projekt
 	Besprechungen fertig abhalten
 	OAuth 2.0 / OpenID Connect
-	------------> STAND B:
 	------------> STAND C:
-	Home-Automation Diplomarbeit fragen
-	Lombok
-	Keycloak herzeigen
-	Dienste bauen
-	
-	Mögliche Folgetutorials
-	https://quarkus.io/guides/transaction
 	Keycloak
 	Swagger
+	Keycloak herzeigen
+	Dienste bauen
+	------------> STAND B:
+	
+	Home-Automation Diplomarbeit fragen
+	Lombok
+	Mögliche Folgetutorials
+	https://quarkus.io/guides/transaction
 ```
 
 #### CDI
