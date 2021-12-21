@@ -62,12 +62,13 @@ Datenbankanbindung H2
 	nächstes Mal die JPAs designen und besprechen für das jeweilige Projekt
 	Besprechungen fertig abhalten
 	OAuth 2.0 / OpenID Connect
-	------------> STAND C:
 	Keycloak
 	Swagger
 	Keycloak herzeigen
 	Dienste bauen
 	------------> STAND B:
+	Gamedev part 1
+	------------> STAND C:
 	
 	Home-Automation Diplomarbeit fragen
 	Lombok
