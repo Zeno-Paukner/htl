@@ -40,10 +40,10 @@
 	Repo als remote eintragen und pushen
 
 	Überblick über Github mit allen Möglichkeiten 
-------------> STAND Gruppe 3 HW,PI,SW,HW,PI
-------------> STAND Gruppe 2 PI,SE,HW,PI,SW 
+------------> STAND Gruppe 2 HW,PI,SE,HW,PI,SW 
 	GameDev Part 1
-------------> STAND Gruppe 1 SW,HW,PI,SW,HW (SW Supplierung)
+------------> STAND Gruppe 1 PI,SW,HW,PI,SW,HW (SW Supplierung)
+------------> STAND Gruppe 3 SW,HW,PI,SW,HW,PI
 	
     Zusatzfelder - Wie werde ich gefunden
     	Organisationen
