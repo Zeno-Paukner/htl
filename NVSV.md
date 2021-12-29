@@ -132,6 +132,12 @@ https://quarkus.io/guides/cdi
 
 ### 2. Semester - B - Angular
 
+#### Typescript
+
+```
+https://www.typescriptlang.org/docs/
+```
+
 #### Angular
 
 ```
