@@ -136,6 +136,8 @@ https://quarkus.io/guides/cdi
 
 ```
 https://www.typescriptlang.org/docs/
+
+https://www.typescriptlang.org/play
 ```
 
 #### Angular
