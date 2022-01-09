@@ -1,6 +1,9 @@
 # HTL-Leonding Unterlagen
 
 Gesammelte Unterlagen für Kurse an der HTL-Leonding.
+Auch erreichbar unter https://bit.ly/LeoHtl
+
+
 
 * NVSV (4. Klasse)
 
