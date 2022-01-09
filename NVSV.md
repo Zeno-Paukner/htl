@@ -4,6 +4,14 @@
 
 <br>
 
+----
+
+### 1. Semester
+
+----
+
+<br>
+
 #### Java Introduction
 
 - Präsentation: [Java-Ökosystem][java-öko]
@@ -117,6 +125,8 @@
 
 #### POOL
 
+----
+
 <br>
 
 ##### Allfälliges
@@ -147,6 +157,8 @@ https://quarkus.io/guides/cdi
 ---
 
 ### 2. Semester - B - Angular
+
+----
 
 <br>
 
@@ -200,6 +212,8 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 -------
 
 ### 2. Semester - C - Kotlin Android
+
+-----
 
 <br>
 
