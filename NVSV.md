@@ -2,21 +2,37 @@
 
 # NVSV
 
+
+
 #### Java Introduction
 
+
+
 #### Introduction
-IDE Installation, JVM, Maven  
-JQuarkus first steps  
-	https://quarkus.io/guides/getting-started
-	
-Classroom GitHub  
+
+- IDE Installation, JVM, Maven
+
   
-Personal Project  
-	Beispiele:  
-		Friedhofsverwaltung  
-		Spieleverwaltung  
+
+- Quarkus first steps
+
+  - https://quarkus.io/guides/getting-started
+
+- Classroom GitHub
+
+  
+
+- Personal Project
+
+- Beispiele:
+
+  - Friedhofsverwaltung
+  - Spieleverwaltung  
+
+
 
 #### REST
+
 Concept  
 HATEOAS  
 HTTP Status  
