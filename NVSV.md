@@ -6,7 +6,8 @@
 
 #### Java Introduction
 
-
+- Präsentation [Java-Ökosystem][java-öko]
+- Präsentation [Java-Einführung][java-intro]
 
 #### Introduction
 
@@ -145,5 +146,9 @@ https://developer.android.com/jetpack/compose
 
 
 
+[Back To README.md][back]
+
 [back]: https://github.com/UnterrainerInformatik/htl
+[java-öko]: https://github.com/UnterrainerInformatik/htl/blob/master/NVS%20-%201%20Java%20%C3%96kosystem.pdf
+[java-intro]: https://github.com/UnterrainerInformatik/htl/blob/master/NVS%20-%202%20Java%20Einf%C3%BChrung.pdf
 
