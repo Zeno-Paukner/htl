@@ -219,19 +219,8 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 
 #### Kotlin
 
-- Explanation
-  - Kotlin is...
-    - Cross-platform
-    - Statically typed
-    - General-purpose
-  - ... and compiles to...
-    - Java ByteCode
-    - JavaScript
-    - Native Code
-- Why Kotlin?
-  - State of the art language used when developing Android Applications
-  - https://kotlinlang.org/
-  - `Try Kotlin`, dann `Why Kotlin?`
+- Präsentation: [Kotlin][kotlin]
+- https://kotlinlang.org/
 - Play with Kotlin
   - https://kotlinlang.org/docs/home.html
 - Beginners' course
@@ -269,6 +258,7 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 [java-intro]: https://github.com/UnterrainerInformatik/htl/blob/master/NVS%20-%202%20Java%20Einf%C3%BChrung.pdf
 [liqui]: https://github.com/UnterrainerInformatik/htl/blob/master/Liquibase.pdf
 [rest]: https://github.com/UnterrainerInformatik/htl/blob/master/rest.pdf
+[kotlin]: https://github.com/UnterrainerInformatik/htl/blob/master/kotlin.pdf
 [typescript]: https://github.com/UnterrainerInformatik/htl/blob/master/typescript.pd
 [oauth]: https://github.com/UnterrainerInformatik/htl/blob/master/OAuth2.0-OIDC.pdf
 [cdi]: https://github.com/UnterrainerInformatik/htl/blob/master/CDI%20-%20Contexts%20and%20Dependency%20Injection.pdf
