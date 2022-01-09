@@ -174,11 +174,8 @@ https://developer.android.com/courses/android-basics-kotlin/course
 ```
 
 #### Kotlin for Android First App
-
-```
 https://developer.android.com/training/basics/firstapp
 https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0
-```
 
 
 #### Keycloak for Apps
