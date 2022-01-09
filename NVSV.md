@@ -2,12 +2,14 @@
 
 # NVSV
 
-
+<br>
 
 #### Java Introduction
 
 - Präsentation: [Java-Ökosystem][java-öko]
 - Präsentation: [Java-Einführung][java-intro]
+
+<br>
 
 #### Introduction
 
@@ -15,19 +17,26 @@
 
 - Präsentation: [CDI - Contexts And Dependency Injection][cdi]
 
+<br>
+
 - Quarkus first steps
 
   - https://quarkus.io/guides/getting-started
 
+<br>
+
 - Classroom GitHub
 
-- Personal Project
+<br>
 
+- Personal Project
 - Beispiele:
 
   - Fuhrparkverwaltung
   - Spieleverwaltung  
   - ...
+
+<br>
 
 #### REST
 
@@ -37,10 +46,14 @@
   - Propose Standard Resource naming
   - https://quarkus.io/guides/rest-json
 
+<br>
+
 #### Projekte
 
 - Ideen durchbesprechen
 - Gruppen bilden
+
+<br>
 
 #### Quarkus Configuration
 
@@ -49,10 +62,14 @@
 - Nested Configs
   - https://quarkus.io/guides/config-mappings
 
+<br>
+
 #### Liquibase
 
 - Präsentation: [Liquibase][liqui]
 - https://quarkus.io/guides/liquibase 
+
+<br>
 
 #### Quarkus JPA - Hibernate ORM
 
@@ -62,13 +79,19 @@
 - https://quarkus.io/guides/hibernate-orm-panache
 - https://quarkus.io/guides/rest-data-panache
 
+<br>
+
 #### Projekte
 
 - JPAs designen und besprechen für das jeweilige Projekt
 
+<br>
+
 #### OAuth & OpenID Connect
 
 - Präsentation: [OAuth 2.0 / OpenID Connect][oauth]
+
+<br>
 
 #### Projekte
 
@@ -86,9 +109,15 @@
 
 > ### **------------> STAND C:**
 
+<br>
+
+<br>
+
 ------
 
 #### POOL
+
+<br>
 
 ##### Allfälliges
 
@@ -111,9 +140,15 @@ https://quarkus.io/guides/cdi
 
 - https://quarkus.io/guides/transaction
 
+<br>
+
+<br>
+
 ---
 
 ### 2. Semester - B - Angular
+
+<br>
 
 #### Typescript
 
@@ -141,6 +176,8 @@ const anExampleVariable = new O('Gerald')
 console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 ```
 
+<br>
+
 #### Angular
 
 - Architecture
@@ -150,13 +187,21 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 - Tutorial
   - https://angular.io/tutorial
 
+<br>
+
 #### Keycloak for Apps
 
 - https://quarkus.io/guides/security-openid-connect-web-authentication
 
+<br>
+
+<br>
+
 -------
 
 ### 2. Semester - C - Kotlin Android
+
+<br>
 
 #### Kotlin
 
@@ -178,6 +223,8 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 - Beginners' course
   - https://developer.android.com/courses/android-basics-kotlin/course
 
+<br>
+
 #### Kotlin for Android
 
 - My First Application
@@ -185,9 +232,13 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 - Another tutorial
   - https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0
 
+<br>
+
 #### Keycloak for Apps
 
 - https://quarkus.io/guides/security-openid-connect-web-authentication
+
+<br>
 
 #### Jetpack Compose
 
@@ -195,7 +246,7 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 
 - https://developer.android.com/jetpack/compose
 
-  
+  <br><br><br>
 
 [Back To README.md][back]
 
