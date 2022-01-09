@@ -2,14 +2,14 @@
 
 # NVSV
 
-
+  
 
 #### Java Introduction
 
 - Präsentation: [Java-Ökosystem][java-öko]
 - Präsentation: [Java-Einführung][java-intro]
 
-
+  
 
 #### Introduction
 
@@ -35,7 +35,7 @@
   - Spieleverwaltung  
   - ...
 
-
+  
 
 #### REST
 
@@ -45,14 +45,14 @@
   - Propose Standard Resource naming
   - https://quarkus.io/guides/rest-json
 
-
+  
 
 #### Projekte
 
 - Ideen durchbesprechen
 - Gruppen bilden
 
-
+  
 
 #### Quarkus Configuration
 
@@ -61,14 +61,14 @@
 - Nested Configs
   - https://quarkus.io/guides/config-mappings
 
-
+  
 
 #### Liquibase
 
 - Präsentation: [Liquibase][liqui]
 - https://quarkus.io/guides/liquibase 
 
-
+  
 
 #### Quarkus JPA - Hibernate ORM
 
@@ -78,19 +78,19 @@
 - https://quarkus.io/guides/hibernate-orm-panache
 - https://quarkus.io/guides/rest-data-panache
 
-
+  
 
 #### Projekte
 
 - JPAs designen und besprechen für das jeweilige Projekt
 
-
+  
 
 #### OAuth & OpenID Connect
 
 - Präsentation: [OAuth 2.0 / OpenID Connect][oauth]
 
-
+  
 
 #### Projekte
 
@@ -108,9 +108,9 @@
 
 > ### **------------> STAND B:**
 
-> ###**------------> STAND C:**
+> ### **------------> STAND C:**
 
-
+  
 
 #### POOL
 
@@ -135,13 +135,13 @@ https://quarkus.io/guides/cdi
 
 - https://quarkus.io/guides/transaction
 
-
+  
 
 ---
 
 ### 2. Semester - B - Angular
 
-
+  
 
 #### Typescript
 
@@ -169,7 +169,7 @@ const anExampleVariable = new O('Gerald')
 console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 ```
 
-
+  
 
 #### Angular
 
@@ -180,19 +180,19 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 - Tutorial
   - https://angular.io/tutorial
 
-
+  
 
 #### Keycloak for Apps
 
 - https://quarkus.io/guides/security-openid-connect-web-authentication
 
+  
 
-
-
+  
 
 ### 2. Semester - C - Kotlin Android
 
-
+  
 
 #### Kotlin
 
@@ -214,7 +214,7 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 - Beginners' course
   - https://developer.android.com/courses/android-basics-kotlin/course
 
-
+  
 
 #### Kotlin for Android
 
@@ -223,22 +223,22 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 - Another tutorial
   - https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0
 
-
+  
 
 #### Keycloak for Apps
 
 - https://quarkus.io/guides/security-openid-connect-web-authentication
 
-
+  
 
 #### Jetpack Compose
 
 - Build Android systems faster...
 - https://developer.android.com/jetpack/compose
 
+  
 
-
-
+  
 
 [Back To README.md][back]
 
