@@ -259,6 +259,6 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 [liqui]: https://github.com/UnterrainerInformatik/htl/blob/master/Liquibase.pdf
 [rest]: https://github.com/UnterrainerInformatik/htl/blob/master/rest.pdf
 [kotlin]: https://github.com/UnterrainerInformatik/htl/blob/master/kotlin.pdf
-[typescript]: https://github.com/UnterrainerInformatik/htl/blob/master/typescript.pd
+[typescript]: https://github.com/UnterrainerInformatik/htl/blob/master/typescript.pdf
 [oauth]: https://github.com/UnterrainerInformatik/htl/blob/master/OAuth2.0-OIDC.pdf
 [cdi]: https://github.com/UnterrainerInformatik/htl/blob/master/CDI%20-%20Contexts%20and%20Dependency%20Injection.pdf
