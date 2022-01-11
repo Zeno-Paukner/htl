@@ -54,13 +54,13 @@
 - Organisationen
 - Teams
 
-> ### **------------> STAND Gruppe 2 HW,PI,SE,HW,PI,SW**
-
-> ### **------------> STAND Gruppe 3 SW,HW,PI,SW,HW,PI**
-
 - GameDev Part 1
 
-> ### **------------> STAND Gruppe 1 PI,SW,HW,PI,SW,HW (SW Supplierung)**
+> ### **------------> STAND Gruppe 1 HW,PI,SW,HW,PI,SW,HW (SW Supplierung)**
+
+> ### **------------> STAND Gruppe 2 SW,HW,PI,SW,HW,PI,SW**
+
+> ### **------------> STAND Gruppe 3 PI,SW,HW,PI,SW,HW,PI**
 
 <br>
 
