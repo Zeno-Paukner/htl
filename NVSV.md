@@ -113,8 +113,6 @@
 
 - Projekt neu beginnen und Dienste dafür bauen
 
-> ### **------------> STAND B:**
-
 > ### **------------> STAND C:**
 
 <br>
@@ -167,6 +165,11 @@ https://quarkus.io/guides/cdi
 - Präsentation: [TypeScript][typescript]
 - Explanation
   - https://www.typescriptlang.org/docs/
+
+
+> ### **------------> STAND B:**
+  (Mitten drinnen)
+
 - Beginners' course
   * https://www.typescriptlang.org/play
 
