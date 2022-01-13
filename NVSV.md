@@ -113,8 +113,6 @@
 
 - Projekt neu beginnen und Dienste dafür bauen
 
-> ### **------------> STAND C:**
-
 <br>
 
 <br>
@@ -224,6 +222,9 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 
 - Präsentation: [Kotlin][kotlin]
 - https://kotlinlang.org/
+
+> ### **------------> STAND C:**
+
 - Play with Kotlin
   - https://kotlinlang.org/docs/home.html
 - Beginners' course
