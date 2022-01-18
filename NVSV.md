@@ -164,10 +164,6 @@ https://quarkus.io/guides/cdi
 - Explanation
   - https://www.typescriptlang.org/docs/
 
-
-> ### **------------> STAND B:**
-  (Mitten drinnen)
-
 - Beginners' course
   * https://www.typescriptlang.org/play
 
@@ -197,6 +193,10 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
   - https://angular.io/guide/architecture
 - Installation
   - https://code.visualstudio.com/docs/nodejs/angular-tutorial
+
+
+> ### **------------> STAND B:**
+
 - Tutorial
   - https://angular.io/tutorial
 
