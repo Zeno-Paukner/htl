@@ -194,11 +194,11 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 - Installation
   - https://code.visualstudio.com/docs/nodejs/angular-tutorial
 
-
-> ### **------------> STAND B:**
-
 - Tutorial
   - https://angular.io/tutorial
+
+> ### **------------> STAND B:**
+mitten drinnen
 
 <br>
 
