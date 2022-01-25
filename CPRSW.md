@@ -56,9 +56,7 @@
 
 - GameDev Part 1
 
-> ### **------------> STAND Gruppe 2 PI,SW,HW,PI,SW,HW,PI,SW**
-
-> ### **------------> STAND Gruppe 3 HW,PI,SW,HW,PI,SW,HW,PI**
+> ### **------------> STAND Gruppe 2 HW,PI,SW,HW,PI,SW,HW,PI,SW**
 
 <br>
 
@@ -68,8 +66,8 @@
 - Umgang mit remote repositories üben
 - Als Maintainer
 
-> ### **------------> STAND Gruppe 1 SW,HW,PI,SW,HW,PI,SW,HW (SW Supplierung)**
-
+> ### **------------> STAND Gruppe 1 PI,SW,HW,PI,SW,HW,PI,SW,HW (SW Supplierung)**
+> ### **------------> STAND Gruppe 3 SW,HW,PI,SW,HW,PI,SW,HW,PI**
 
 - Als Unterstützer
 - (anlegen, PRs machen, Code-Reviews durchspielen, ...)
