@@ -223,8 +223,6 @@ mitten drinnen
 - Präsentation: [Kotlin][kotlin]
 - https://kotlinlang.org/
 
-> ### **------------> STAND C:**
-
 - Play with Kotlin
   - https://kotlinlang.org/docs/home.html
 - Beginners' course
@@ -233,6 +231,9 @@ mitten drinnen
 <br>
 
 #### Kotlin for Android
+
+> ### **------------> STAND C:**
+Download Android Studio and try the emulator...
 
 - My First Application
   - https://developer.android.com/training/basics/firstapp
