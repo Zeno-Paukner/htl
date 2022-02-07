@@ -237,10 +237,10 @@ Download Android Studio and try the emulator...
 - My First Application
   - https://developer.android.com/training/basics/firstapp
 
-> ### **------------> STAND C:**
-
 - Another tutorial
   - https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0
+
+> ### **------------> STAND C:**
 
 <br>
 
