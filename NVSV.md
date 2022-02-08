@@ -197,8 +197,16 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 - Tutorial
   - https://angular.io/tutorial
 
+  - Data binding
+  - Two way data binding
+  - Component communication
+  - ngIf
+  - ngFor
+  - Angular Material
+  - Flexbox
 > ### **------------> STAND B:**
-mitten drinnen
+  - Modules
+  - Axios
 
 <br>
 
