@@ -248,6 +248,7 @@ Download Android Studio and try the emulator...
 - Another tutorial
   - https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0
 
+Mittem im ersten Tutorial beim Erzeugen der 3 Buttons
 > ### **------------> STAND C:**
 
 <br>
