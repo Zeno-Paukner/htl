@@ -206,7 +206,12 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
   - Flexbox
 > ### **------------> STAND B:**
   - Modules
+    - https://angular.io/guide/ngmodules
+  - Dependency Injection
+    - https://angular.io/guide/dependency-injection
   - Axios
+  - Routing
+    - https://angular.io/tutorial/toh-pt5
 
 <br>
 
