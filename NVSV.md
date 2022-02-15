@@ -257,6 +257,11 @@ Download Android Studio and try the emulator...
 Mittem im ersten Tutorial beim Erzeugen der 3 Buttons
 > ### **------------> STAND C:**
 
+- Advanced Android Studio
+  - https://developer.android.com/courses/pathways/android-coroutines
+
+- Advanced Kotlin Courses
+  - https://developer.android.com/courses/kotlin-android-fundamentals/toc
 <br>
 
 #### Keycloak for Apps
@@ -269,6 +274,8 @@ Mittem im ersten Tutorial beim Erzeugen der 3 Buttons
 
 - Build Android systems faster...
 
+- Android Studio Course
+  - https://developer.android.com/courses/pathways/compose
 - https://developer.android.com/jetpack/compose
 
   <br><br><br>
