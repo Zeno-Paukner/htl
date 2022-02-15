@@ -204,9 +204,10 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
   - ngFor
   - Angular Material
   - Flexbox
-> ### **------------> STAND B:**
   - Modules
     - https://angular.io/guide/ngmodules
+    - https://angular.io/guide/feature-modules
+> ### **------------> STAND B:**
   - Dependency Injection
     - https://angular.io/guide/dependency-injection
   - Axios
