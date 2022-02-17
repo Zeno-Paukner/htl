@@ -260,6 +260,9 @@ Mittem im ersten Tutorial beim Erzeugen der 3 Buttons
 - Advanced Android Studio
   - https://developer.android.com/courses/pathways/android-coroutines
 
+- Getting data with Retrofit
+  - https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet#0
+
 - Advanced Kotlin Courses
   - https://developer.android.com/courses/kotlin-android-fundamentals/toc
 <br>
