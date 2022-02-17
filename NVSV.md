@@ -197,6 +197,8 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 - Tutorial
   - https://angular.io/tutorial
 
+https://github.com/UnterrainerInformatik/htl_angular_firstapp
+
   - Data binding
   - Two way data binding
   - Component communication
@@ -247,6 +249,8 @@ console.log(anExampleVariable.concat(' hiho').concat(' test').name )
 #### Kotlin for Android
 
 Download Android Studio and try the emulator...
+
+https://github.com/UnterrainerInformatik/htl_android_first
 
 - My First Application
   - https://developer.android.com/training/basics/firstapp
