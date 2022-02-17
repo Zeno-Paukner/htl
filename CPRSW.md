@@ -64,6 +64,8 @@
 - Umgang mit remote repositories üben
 - Als Maintainer
 
+https://github.com/UnterrainerInformatik/htl_website
+
 > ### **------------> STAND Gruppe 1 PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW (SW Supplierung)**
 > ### **------------> STAND Gruppe 3 SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI**
 vue programmieren (3er gerade Ende 1. Stunde Erklärung des Codes)
