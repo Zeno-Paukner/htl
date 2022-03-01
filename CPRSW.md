@@ -66,11 +66,11 @@
 
 https://github.com/UnterrainerInformatik/htl_website
 
-> ### **------------> STAND Gruppe 1 PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW (SW Supplierung)**
-> ### **------------> STAND Gruppe 3 SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI**
+> ### **------------> STAND Gruppe 3 PI, SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI**
 vue programmieren (3er gerade Ende 1. Stunde Erklärung des Codes)
-> ### **------------> STAND Gruppe 2 HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW**
-> 
+> ### **------------> STAND Gruppe 2 SW, HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW**
+> ### **------------> STAND Gruppe 1 HW, PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW (SW Supplierung)**
+
 - Als Unterstützer
 - (anlegen, PRs machen, Code-Reviews durchspielen, ...)
 
