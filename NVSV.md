@@ -209,10 +209,11 @@ https://github.com/UnterrainerInformatik/htl_angular_firstapp
   - Modules
     - https://angular.io/guide/ngmodules
     - https://angular.io/guide/feature-modules
-> ### **------------> STAND B:**
   - Dependency Injection
     - https://angular.io/guide/dependency-injection
-  - Axios
+  - Angular HTTP Client
+> ### **------------> STAND B:**
+    - https://angular.io/guide/http
   - Routing
     - https://angular.io/tutorial/toh-pt5
 
