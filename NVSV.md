@@ -259,14 +259,16 @@ https://github.com/UnterrainerInformatik/htl_android_first
 - Another tutorial
   - https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0
 
-Mittem im ersten Tutorial beim Erzeugen der 3 Buttons
-> ### **------------> STAND C:**
-
 - Advanced Android Studio
   - https://developer.android.com/courses/pathways/android-coroutines
 
 - Getting data with Retrofit
   - https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet#0
+> ### **------------> STAND C:** Ende (letzte Seite)
+https://developer.android.com/topic/libraries/architecture/viewmodel
+https://developer.android.com/topic/libraries/architecture/livedata#kotlin
+https://developer.android.com/topic/libraries/architecture/coroutines#viewmodelscope
+
 
 - Advanced Kotlin Courses
   - https://developer.android.com/courses/kotlin-android-fundamentals/toc
