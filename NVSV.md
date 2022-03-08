@@ -264,6 +264,8 @@ https://github.com/UnterrainerInformatik/htl_android_first
 
 - Getting data with Retrofit
   - https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet#0
+  - https://developer.android.com/codelabs/basic-android-kotlin-training-internet-images#0
+    - coil (buffer images) and populate RecyclerView
 > ### **------------> STAND C:** Ende (letzte Seite)
 https://developer.android.com/topic/libraries/architecture/viewmodel
 https://developer.android.com/topic/libraries/architecture/livedata#kotlin
