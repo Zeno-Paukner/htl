@@ -212,7 +212,15 @@ https://github.com/UnterrainerInformatik/htl_angular_firstapp
   - Dependency Injection
     - https://angular.io/guide/dependency-injection
   - Angular HTTP Client
+  - Promises, async-await Präsentation
+
+  - Erneutes Reaktivieren des Quarkus-Codes
+    - CORS-Änderungen pullen oder einbauen
 > ### **------------> STAND B:**
+  - REST-Requests auf den eigenen Quarkus-Server absetzen
+  - Beide Projekte updaten
+  - Mit eigener Implementierung beginnen...
+
     - https://angular.io/guide/http
   - Routing
     - https://angular.io/tutorial/toh-pt5
@@ -264,9 +272,9 @@ https://github.com/UnterrainerInformatik/htl_android_first
 
 - Getting data with Retrofit
   - https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet#0
+> ### **------------> STAND C:** Ende (letzte Seite)
   - https://developer.android.com/codelabs/basic-android-kotlin-training-internet-images#0
     - coil (buffer images) and populate RecyclerView
-> ### **------------> STAND C:** Ende (letzte Seite)
 https://developer.android.com/topic/libraries/architecture/viewmodel
 https://developer.android.com/topic/libraries/architecture/livedata#kotlin
 https://developer.android.com/topic/libraries/architecture/coroutines#viewmodelscope
