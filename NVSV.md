@@ -272,7 +272,7 @@ https://github.com/UnterrainerInformatik/htl_android_first
 
 - Getting data with Retrofit
   - https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet#0
-> ### **------------> STAND C:** Ende (letzte Seite)
+> ### **------------> STAND C:** Mitten im Tutorial... Mochi einbauen
   - https://developer.android.com/codelabs/basic-android-kotlin-training-internet-images#0
     - coil (buffer images) and populate RecyclerView
 https://developer.android.com/topic/libraries/architecture/viewmodel
