@@ -278,6 +278,8 @@ https://github.com/UnterrainerInformatik/htl_android_first
   - https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet#0
   - https://developer.android.com/codelabs/basic-android-kotlin-training-internet-images#0
 > ### **------------> STAND C:** Nochmal Fehlerbehandlung am laufenden System durchschauen. System clonen und laufen lassen.
+dann:
+   - https://developer.android.com/jetpack/compose/tutorial
 
 https://developer.android.com/topic/libraries/architecture/viewmodel
 https://developer.android.com/topic/libraries/architecture/livedata#kotlin
