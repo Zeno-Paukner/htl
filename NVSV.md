@@ -216,10 +216,10 @@ https://github.com/UnterrainerInformatik/htl_angular_firstapp
 
   - Erneutes Reaktivieren des Quarkus-Codes
     - CORS-Änderungen pullen oder einbauen
-> ### **------------> STAND B:**
   - Quarkus-Server clonen und in server-Verzeichnis verschieben
   - first_angular_app clonen und in client-Verzeichnis verschieben
   - Quarkus-Backend starten
+> ### **------------> STAND B:**
   - Frontend anpassen, dass man eine Liste der People anzeigt (nach dem Laden)
   - REST-Requests auf den eigenen Quarkus-Server absetzen
   - Beide Projekte updaten
