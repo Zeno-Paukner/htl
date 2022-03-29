@@ -66,8 +66,8 @@
 
 https://github.com/UnterrainerInformatik/htl_website
 
-> ### **------------> STAND Gruppe 3 PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI**
-> ### **------------> STAND Gruppe 1 HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW (SW Supplierung)**
+> ### **------------> STAND Gruppe 3 HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI**
+> ### **------------> STAND Gruppe 1 SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW (SW Supplierung)**
 
 
 - Als Unterstützer
@@ -94,7 +94,7 @@ https://github.com/UnterrainerInformatik/htl_website
   - Windows Terminal
 - docker build
 
-> ### **------------> STAND Gruppe 2 HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW**
+> ### **------------> STAND Gruppe 2 PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW**
 
 - docker run, logs, exec, inspect
 - docker images ls
