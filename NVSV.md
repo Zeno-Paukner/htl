@@ -283,6 +283,9 @@ https://github.com/UnterrainerInformatik/htl_android_first
       > ### **------------> STAND C:** Stand: Beginn des Kurses... Clonen des Beispielcodes
       > noch was suchen, was das im Hintergrund laden von Webservices demonstriert...
 
+  - https://dev.to/paulallies/jetpack-compose-api-data-to-list-view-5fki
+  - https://rrtutors.com/tutorials/How-to-Integrate-REST-API-with-Jetpack-compose-in-Android
+  
 https://developer.android.com/topic/libraries/architecture/viewmodel
 https://developer.android.com/topic/libraries/architecture/livedata#kotlin
 https://developer.android.com/topic/libraries/architecture/coroutines#viewmodelscope
