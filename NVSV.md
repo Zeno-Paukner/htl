@@ -280,7 +280,7 @@ https://github.com/UnterrainerInformatik/htl_android_first
   - https://developer.android.com/jetpack/compose/tutorial
   - https://developer.android.com/courses/pathways/compose
     - https://developer.android.com/codelabs/jetpack-compose-state?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fcompose%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-state#0
-      > ### **------------> STAND C:** Stand: Bild von Avatar einfügen. (Beginn des Kurses... Clonen des Beispielcodes)
+      > ### **------------> STAND C:** Stand: Beginn des Kurses... Clonen des Beispielcodes
       > noch was suchen, was das im Hintergrund laden von Webservices demonstriert...
 
 https://developer.android.com/topic/libraries/architecture/viewmodel
