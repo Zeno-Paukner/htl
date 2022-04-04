@@ -220,6 +220,7 @@ https://github.com/UnterrainerInformatik/htl_angular_firstapp
   - first_angular_app clonen und in client-Verzeichnis verschieben
   - Quarkus-Backend starten
 > ### **------------> STAND B:**
+  - [REST und Caching][rest-caching]
   - Frontend anpassen, dass man eine Liste der People anzeigt (nach dem Laden)
   - REST-Requests auf den eigenen Quarkus-Server absetzen
   - Beide Projekte updaten
@@ -322,3 +323,4 @@ https://developer.android.com/topic/libraries/architecture/coroutines#viewmodels
 [typescript]: https://github.com/UnterrainerInformatik/htl/blob/master/typescript.pdf
 [oauth]: https://github.com/UnterrainerInformatik/htl/blob/master/OAuth2.0-OIDC.pdf
 [cdi]: https://github.com/UnterrainerInformatik/htl/blob/master/CDI%20-%20Contexts%20and%20Dependency%20Injection.pdf
+[rest-caching]: https://github.com/UnterrainerInformatik/htl/blob/master/rest-caching.pdf
