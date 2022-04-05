@@ -93,7 +93,8 @@ https://github.com/UnterrainerInformatik/htl_website
 > ### **------------> STAND Gruppe 2 HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW**
 > ### **------------> STAND Gruppe 1 PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW (SW Supplierung)**
 > ### **------------> STAND Gruppe 3 SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI**
-(Beispiel von Windows-Container raussuchen)
+- first Windows container
+  - https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/run-your-first-container
 - docker run, logs, exec, inspect
 - docker images ls
 - docker-compose & ctop
