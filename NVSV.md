@@ -219,9 +219,9 @@ https://github.com/UnterrainerInformatik/htl_angular_firstapp
   - Quarkus-Server clonen und in server-Verzeichnis verschieben
   - first_angular_app clonen und in client-Verzeichnis verschieben
   - Quarkus-Backend starten
-> ### **------------> STAND B:**
   - [REST und Caching][rest-caching]
   - Frontend anpassen, dass man eine Liste der People anzeigt (nach dem Laden)
+> ### **------------> STAND B:**
   - REST-Requests auf den eigenen Quarkus-Server absetzen
   - Beide Projekte updaten
   - Mit eigener Implementierung beginnen...
