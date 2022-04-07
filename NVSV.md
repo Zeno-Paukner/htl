@@ -281,8 +281,7 @@ https://github.com/UnterrainerInformatik/htl_android_first
   - https://developer.android.com/jetpack/compose/tutorial
   - https://developer.android.com/courses/pathways/compose
     - https://developer.android.com/codelabs/jetpack-compose-state?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fcompose%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-state#0
-      > ### **------------> STAND C:** Stand: Beginn des Kurses... Clonen des Beispielcodes
-      > noch was suchen, was das im Hintergrund laden von Webservices demonstriert...
+      > ### **------------> STAND C:** Stand: remember -> memory
 
   - https://dev.to/paulallies/jetpack-compose-api-data-to-list-view-5fki
   - https://rrtutors.com/tutorials/How-to-Integrate-REST-API-with-Jetpack-compose-in-Android
