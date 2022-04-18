@@ -94,7 +94,13 @@ https://github.com/UnterrainerInformatik/htl_website
 > ### **------------> STAND Gruppe 1 PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW (SW Supplierung)**
 > ### **------------> STAND Gruppe 3 SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI**
 - first Windows container
+  - only works in powershell
   - https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/run-your-first-container
+  - container description
+    -  https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/container-base-images
+  -  working image
+    - docker pull mcr.microsoft.com/windows/nanoserver:1803-amd64
+  - use to verify version (os >= image): winver
 - docker run, logs, exec, inspect
 - docker images ls
 - docker-compose & ctop
