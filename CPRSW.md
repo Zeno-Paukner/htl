@@ -105,6 +105,7 @@ https://github.com/UnterrainerInformatik/htl_website
     - docker pull mcr.microsoft.com/windows/nanoserver:1803-amd64
   - use to verify version (os >= image): winver
 > ### **------------> STAND Gruppe 2 SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW**
+  -----> Copy Dockerfile from https://v2.vuejs.org/v2/cookbook/dockerize-vuejs-app.html?redirect=true to code-js/HTL/htl_website and run a build
 - Run Webpage in NGINX using Docker-Compose
   - https://docs.docker.com/compose/
   - https://v2.vuejs.org/v2/cookbook/dockerize-vuejs-app.html?redirect=true
