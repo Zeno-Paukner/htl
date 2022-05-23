@@ -221,12 +221,23 @@ https://github.com/UnterrainerInformatik/htl_angular_firstapp
   - Quarkus-Backend starten
   - [REST und Caching][rest-caching]
   - Frontend anpassen, dass man eine Liste der People anzeigt (nach dem Laden)
-> ### **------------> STAND B:**
   - REST-Requests auf den eigenen Quarkus-Server absetzen
   - Beide Projekte updaten
   - Mit eigener Implementierung beginnen...
 
-    - https://angular.io/guide/http
+> ### **------------> STAND B:**
+  - Add Keycloak to client
+    - https://www.npmjs.com/package/keycloak-angular
+      - add Router module
+      - add keycloak (import)
+      - configure keycloak-js
+      - add SSO iframe
+      - add interceptor
+      - configure keycloak backend
+      - test
+    - https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b05f7dfdd
+  
+  - https://angular.io/guide/http
   - Routing
     - https://angular.io/tutorial/toh-pt5
 
