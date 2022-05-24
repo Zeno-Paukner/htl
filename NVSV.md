@@ -228,6 +228,7 @@ https://github.com/UnterrainerInformatik/htl_angular_firstapp
 > ### **------------> STAND B:**
   - Add Keycloak to client
     - https://www.npmjs.com/package/keycloak-angular
+      - keycloak Wiederholung
       - add Router module
       - add keycloak (import)
       - configure keycloak-js
