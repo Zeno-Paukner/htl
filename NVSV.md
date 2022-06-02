@@ -294,7 +294,6 @@ https://github.com/UnterrainerInformatik/htl_android_first
   - https://developer.android.com/courses/pathways/compose
     - https://developer.android.com/codelabs/jetpack-compose-state?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fcompose%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-state#0
   - [REST und Caching][rest-caching]
-  > ### **------------> STAND C:**
   - Retrofit android example kotlin[step by step]: https://howtodoandroid.com/retrofit-android-example-kotlin/
     - Gute Erklärung was Retrofit ist
     - Gute Einordnung
@@ -306,6 +305,8 @@ https://github.com/UnterrainerInformatik/htl_android_first
     - Verwendet Jetpack Compose
   - https://dev.to/paulallies/jetpack-compose-api-data-to-list-view-5fki
   - https://rrtutors.com/tutorials/How-to-Integrate-REST-API-with-Jetpack-compose-in-Android
+  - https://github.com/UnterrainerInformatik/htl_android_webservice
+  > ### **------------> STAND C:**
   
 https://developer.android.com/topic/libraries/architecture/viewmodel
 https://developer.android.com/topic/libraries/architecture/livedata#kotlin
