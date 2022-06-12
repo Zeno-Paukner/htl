@@ -225,7 +225,6 @@ https://github.com/UnterrainerInformatik/htl_angular_firstapp
   - Beide Projekte updaten
   - Mit eigener Implementierung beginnen...
 
-> ### **------------> STAND B:**
   - Add Keycloak to client
     - https://www.npmjs.com/package/keycloak-angular
       - keycloak Wiederholung
@@ -237,6 +236,13 @@ https://github.com/UnterrainerInformatik/htl_angular_firstapp
       - configure keycloak backend
       - test
     - https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b05f7dfdd
+    - Config standalone Keycloak instance
+    > ### **------------> STAND B:**
+    - correct team-entries in projects... (keycloak credentials)
+      - update those
+    - transfer settings from keycloak-dev-instance to new standalone instance
+    - config quarkus backend to use standalone instance
+    - config frontend to use standalone instance
   
   - https://angular.io/guide/http
   - Routing
@@ -307,6 +313,11 @@ https://github.com/UnterrainerInformatik/htl_android_first
   - https://rrtutors.com/tutorials/How-to-Integrate-REST-API-with-Jetpack-compose-in-Android
   - https://github.com/UnterrainerInformatik/htl_android_webservice
   > ### **------------> STAND C:**
+  - correct team-entries in projects... (keycloak credentials)
+    - update those
+  - transfer settings from keycloak-dev-instance to new standalone instance
+  - config quarkus backend to use standalone instance
+  - config frontend to use standalone instance
   
 https://developer.android.com/topic/libraries/architecture/viewmodel
 https://developer.android.com/topic/libraries/architecture/livedata#kotlin
