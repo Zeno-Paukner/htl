@@ -237,11 +237,12 @@ https://github.com/UnterrainerInformatik/htl_angular_firstapp
       - test
     - https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b05f7dfdd
     - Config standalone Keycloak instance
-    > ### **------------> STAND B:**
     - correct team-entries in projects... (keycloak credentials)
-      - update those
+    - update project list in Class Notebook
     - transfer settings from keycloak-dev-instance to new standalone instance
     - config quarkus backend to use standalone instance
+    > ### **------------> STAND B:**
+    - test, if every project-group has got it right
     - config frontend to use standalone instance
   
   - https://angular.io/guide/http
