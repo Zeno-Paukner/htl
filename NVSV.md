@@ -314,6 +314,7 @@ https://github.com/UnterrainerInformatik/htl_android_first
   - https://rrtutors.com/tutorials/How-to-Integrate-REST-API-with-Jetpack-compose-in-Android
   - https://github.com/UnterrainerInformatik/htl_android_webservice
   > ### **------------> STAND C:**
+  Bewertungslink -> OneNote -> HTL-Leonding -> Allgemeines -> Bewertung
   - correct team-entries in projects... (keycloak credentials)
     - update those
   - transfer settings from keycloak-dev-instance to new standalone instance
