@@ -112,6 +112,7 @@ https://github.com/UnterrainerInformatik/htl_website
 > ### **------------> STAND Gruppe 3 HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI**
   - Eigenes Web-Projekt mit Server in einem Container builden und auf dockerhub hochladen.
 > ### **------------> STAND Gruppe 1 SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW,PI,SW,HW (SW Supplierung)**
+- Bewertungslink -> OneNote -> HTL-Leonding -> Allgemeines -> Bewertung
 
 <br>
 
