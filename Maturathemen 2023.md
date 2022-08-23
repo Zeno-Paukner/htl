@@ -2,7 +2,7 @@
 
 [Back To README.md][back]
 
-![Mindmap](https://github.com/UnterrainerInformatik/htl/blob/master/img/Maturathemen%202023.svg width="1024")
+<img src="https://github.com/UnterrainerInformatik/htl/blob/master/img/Maturathemen%202023.svg" alt="" width="1024" />
 
 [Back To README.md][back]
 
