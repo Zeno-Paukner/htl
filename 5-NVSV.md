@@ -2,10 +2,6 @@
 
 # 5 - NVSV
 
-## Referatsthemen
-
-[MindMap][maturathemen]
-
 <br>
 
 ----
@@ -21,4 +17,3 @@
 [Back To README.md][back]
 
 [back]: https://github.com/UnterrainerInformatik/htl
-[maturathemen]: https://github.com/UnterrainerInformatik/htl/blob/master/img/Maturathemen%202023.svg
