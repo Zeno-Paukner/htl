@@ -242,6 +242,7 @@ https://github.com/UnterrainerInformatik/htl_angular_firstapp
     - transfer settings from keycloak-dev-instance to new standalone instance
     - config quarkus backend to use standalone instance
     > ### **------------> STAND B:**
+    - Bewertungslink -> OneNote -> HTL-Leonding -> Allgemeines -> Bewertung
     - test, if every project-group has got it right
     - config frontend to use standalone instance
   
@@ -313,10 +314,12 @@ https://github.com/UnterrainerInformatik/htl_android_first
   - https://dev.to/paulallies/jetpack-compose-api-data-to-list-view-5fki
   - https://rrtutors.com/tutorials/How-to-Integrate-REST-API-with-Jetpack-compose-in-Android
   - https://github.com/UnterrainerInformatik/htl_android_webservice
-  > ### **------------> STAND C:**
+  - Bewertungslink -> OneNote -> HTL-Leonding -> Allgemeines -> Bewertung
   - correct team-entries in projects... (keycloak credentials)
     - update those
   - transfer settings from keycloak-dev-instance to new standalone instance
+    - We are done defining the client-Mappers
+  > ### **------------> STAND C:**
   - config quarkus backend to use standalone instance
   - config frontend to use standalone instance
   
