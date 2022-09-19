@@ -5,18 +5,30 @@ Auch erreichbar unter https://bit.ly/LeoHtl
 
 
 
+* [CPRSW (2. Klasse)][cprsw2]
 * [NVSV (4. Klasse)][nvsv4]
 
-* [NVSV (5. Klasse)][nvsv5]
+### 5BHIF
 
-* [NVSV Referatsthemen 2023][nvsv5referate]
+* [NVSV (5B. Klasse)][nvsv5b]
+* [NVSV Referatsthemen][nvsv5bref]
 
-* [CPRSW (2. Klasse)][cprsw2]
+### 5CHIF
+
+* [NVSV (5C. Klasse)][nvsv5c]
+* [NVSV Referatsthemen][nvsv5cref]
+
+
+
+* [NVSV Referatsthemen - Vorschläge 2023][nvsv5referate]
 
 
 
 [cprsw2]: 2-CPRSW.md
 [nvsv4]: 4-NVSV.md
-[nvsv5]:  5-NVSV.md
-[nvsv5referate]: https://github.com/UnterrainerInformatik/htl/blob/master/Maturathemen%202023.md
+[nvsv5b]:  5BHIF-NVSV.md
+[nvsv5bref]: 5BHIF-Maturathemen%202023.md
+[nvsv5c]: 5CHIF-NVSV.md
+[nvsv5cref]: 5CHIF-Maturathemen%202023.md
+[nvsv5referate]: Maturathemen%202023.md
 
