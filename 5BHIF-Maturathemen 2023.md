@@ -1,8 +1,8 @@
-# 5BHIF - Maturathemen 2023 - Mindmap
+# 5CHIF - Maturathemen 2023 - Mindmap
 
 [Back To README.md][back]
 
-<img src="https://github.com/UnterrainerInformatik/htl/blob/master/img/5BHIF-Maturathemen2023.svg" alt="" width="1080" />
+![5CHIF - Referatsthemen](http://plantuml.unterrainer.info/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/iuml/5BHIF-Maturathemen2023.iuml)
 
 [Back To README.md][back]
 

@@ -17,7 +17,7 @@ Netzwerksicherheit;
 **[#DodgerBlue] J4 Enterprise Architekturen
 
 ***[#LightGreen]:Testing
-<b>(Balog Danijel)</b>;
+<b>(Wöß Michalis)</b>;
 ****[#LightGoldenRodYellow] Frontend
 *****_ Selenium
 ******_:Beispiel mit Selenium
@@ -35,8 +35,7 @@ Datenmodells prüft;
 *****_ Testcontainers
 ****[#LightGoldenRodYellow] Theorie
 
-***[#LightGreen]:CDI
-<b>(Schwarz Markus)</b>;
+***[#LawnGreen] CDI
 ****[#LightGoldenRodYellow] Konzepte
 *****_ @Inject vs. @EJB
 *****_ Events
@@ -49,14 +48,13 @@ Datenmodells prüft;
 *****_ Seam
 *****_ Weld
 
-***[#LightGreen]:JDBC
-<b>(Habibovic Sandin)</b>;
+***[#LawnGreen] JDBC
 ****[#LightGoldenRodYellow] Historie
 ****[#LightGoldenRodYellow] Anwendungsbeispiel
 ****[#LightGoldenRodYellow] Abgrenzung JPQL / JPA
 
 ***[#LightGreen]:Security
-<b>(Dürk Valentin)</b>;
+<b>(Preining Moritz)</b>;
 ****[#LightGoldenRodYellow] OpenID Connect (KeyCloak)
 *****_ Codebeispiel
 *****_ Two-Factor Authentication
@@ -71,7 +69,8 @@ ServletFilter;
 *****_ CORS
 *****_ Reverse Proxy (Traefik)
 
-***[#LawnGreen] Zugriff auf Datenbanken
+***[#LightGreen]:Zugriff auf Datenbanken
+<b>(Hagenberger Nikos)</b>;
 ****[#LightGoldenRodYellow] RDB vs. noSQL
 ****[#LightGoldenRodYellow] Kafka
 ****[#LightGoldenRodYellow] Reactive vs. imperative
@@ -84,23 +83,19 @@ Concurrency zu zeigen;
 ******_ Eclipselink
 ******_ Panache
 
-***[#LightGreen]:Electron
-<b>(Servan Amel)</b>;
+***[#LawnGreen] Electron
 
 ***[#LawnGreen] RMI
 
-***[#LightGreen]:JavaFX
-<b>(Zellinger David)</b>;
+***[#LawnGreen] JavaFX
 
-***[#LightGreen]:JakartaEE AppServers
-<b>(Lau William)</b>;
+***[#LawnGreen] JakartaEE AppServers
 ****[#LightGoldenRodYellow] Wildfly
 ****[#LightGoldenRodYellow] Payara
 ****[#LightGoldenRodYellow] OpenLiberty
 ****[#LightGoldenRodYellow] TomEE
 
-***[#LightGreen]:JakartaEE MicroProfile
-<b>(Siegl Maximilian)</b>;
+***[#LawnGreen] JakartaEE MicroProfile
 ****[#LightGoldenRodYellow] Health Checks
 ****[#LightGoldenRodYellow] openAPI
 ****[#LightGoldenRodYellow] openTracing
@@ -109,8 +104,7 @@ Concurrency zu zeigen;
 *****_ Resiliance4j
 *****_ Circuit Breaker
 
-***[#LightGreen]:Reactive vs. imperative
-<b>(Lehner Jakob)</b>;
+***[#LawnGreen] Reactive vs. imperative
 ****[#LightGoldenRodYellow] Codebeispiel mit Quarkus
 *****_ einfaches Beispiel
 ******_ imperativ programmiert
@@ -121,7 +115,7 @@ Concurrency zu zeigen;
 **[#DodgerBlue] J5 Webapplikationen
 
 ***[#LightGreen]:Java Webtechnologien
-<b>(Hinterleitner Felix)</b>;
+<b>(Neumüller Jakob)</b>;
 ****[#LightGoldenRodYellow] Servlets
 *****_ Codebeispiel
 ****[#LightGoldenRodYellow] Java Server Pages (JSP)
@@ -139,15 +133,14 @@ Concurrency zu zeigen;
 ****[#LightGoldenRodYellow] Qute (nur für Quarkus)
 *****_ Codebeispiel
 
-***[#LightGreen]:Flutter / Firebase / Serverless
-<b>(Edalatkhah Seyyed Arsham)</b>;
+***[#LawnGreen] Flutter / Firebase / Serverless
 ****[#LightGoldenRodYellow] Theorie
 *****_ Serverless
 *****_:Abgrenzung zu anderen
 Technologien;
 
 ***[#LightGreen]:Angular Clients
-<b>(Wilflingseder Florian)</b>;
+<b>(Wolfmayr Clemens)</b>;
 ****[#LightGoldenRodYellow] Codebeispiel
 *****_ Datenbank
 *****_ CRUD-Funktionalität
@@ -158,7 +151,7 @@ Technologien;
 ****[#LightGoldenRodYellow] Konzepte von Angular
 
 ***[#LightGreen]:Datenformate
-<b>(Bhuiyan Romeo)</b>;
+<b>(Oswald Stefan)</b>;
 ****[#LightGoldenRodYellow] Anwendung
 *****_ Validierung
 ******_ der Struktur
@@ -176,7 +169,7 @@ Technologien;
 *****_ JSON-P
 
 ***[#LightGreen]:Client-Server Kommunkikation
-<b>(Wunder Mattias)</b>;
+<b>(Freiseisen Robert)</b>;
 ****[#LightGoldenRodYellow] SOAP
 *****_ WSDL
 ****[#LightGoldenRodYellow] REST
@@ -189,7 +182,7 @@ Technologien;
 ****[#LightGoldenRodYellow] Webhooks
 
 ***[#LightGreen]:JavaScript & Frameworks
-<b>(Hausleitner Martin)</b>;
+<b>(Kücülkü Berkan)</b>;
 ****[#LightGoldenRodYellow] Angular
 ****[#LightGoldenRodYellow] React
 ****[#LightGoldenRodYellow] VueJS
@@ -201,8 +194,7 @@ Technologien;
 **[#DodgerBlue]:J6 Client-Server Architekturen
 & Mobile Computing;
 
-***[#LightGreen]:Android
-<b>(Imsirovic Benjamin)</b>;
+***[#LawnGreen] Android
 ****[#LightGoldenRodYellow] Fragments
 ****[#LightGoldenRodYellow] Provider
 ****[#LightGoldenRodYellow] Services
@@ -216,7 +208,7 @@ Technologien;
 zu Quarkus REST-Backend;
 
 ***[#LightGreen]:Docker
-<b>(Jahn Kevin)</b>;
+<b>(Spisak Sebastian)</b>;
 ****[#LightGoldenRodYellow] Docker
 *****_:Pushen von images
 in Docker Registry;
@@ -227,7 +219,7 @@ in Docker Registry;
 ****[#LightGoldenRodYellow] Docker Swarm & Kubernetes
 
 ***[#LightGreen]:Kubernetes
-<b>(Paukner Zeno)</b>;
+<b>(Seifert Moritz)</b>;
 ****[#LightGoldenRodYellow] Minikube
 ****[#LightGoldenRodYellow] LeoCloud
 ****[#LightGoldenRodYellow] jib, s2i, ...
@@ -247,7 +239,7 @@ hardwarenahe Programmierung;
 ****[#LightGoldenRodYellow] JMS
 
 ***[#LightGreen]:Environment variables
-<b>(Schned Fabian)</b>;
+<b>(Füreder Philipp)</b>;
 ****[#LightGoldenRodYellow] Beispiele
 *****_ JAVA_HOME
 *****_ MVN_HOME
@@ -255,8 +247,7 @@ hardwarenahe Programmierung;
 *****_ docker-compose
 *****_ Java
 
-***[#LightGreen]:ShellScripts
-<b>(Rausch-Schott Simon)</b>;
+***[#LawnGreen] ShellScripts
 ****[#LightGoldenRodYellow] Bedeutung in CI/CD
 *****_ Deployment
 *****_ docker-compose
@@ -264,8 +255,7 @@ hardwarenahe Programmierung;
 ***[#LawnGreen] AMQP
 ****[#LightGoldenRodYellow] RabbitMQ
 
-***[#LightGreen]:openHAB
-<b>(Kern Philip)</b>;
+***[#LawnGreen] openHAB
 ****[#LightGoldenRodYellow] Überblick
 ****[#LightGoldenRodYellow] Use-cases
 ****[#LightGoldenRodYellow] Abgrenzung zu MQTT
@@ -273,8 +263,7 @@ hardwarenahe Programmierung;
 ***[#LawnGreen] Raspberry
 ****[#LightGoldenRodYellow] openHAB
 
-***[#LightGreen]:IoT
-<b>(Lasinger Christoph)</b>;
+***[#LawnGreen] IoT
 ****[#LightGoldenRodYellow] Arduino IDE
 ****[#LightGoldenRodYellow] platformIO
 *****_ Atom

@@ -1,0 +1,6 @@
+{
+    "plantuml.exportFormat": "svg",
+    "plantuml.exportMapFile": false,
+    "plantuml.render": "PlantUMLServer",
+    "plantuml.server": "https://plantuml.unterrainer.info/plantuml"
+}
