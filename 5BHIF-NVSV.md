@@ -36,7 +36,7 @@
 
 ### Hausübung
 
-​	Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tennisplätze für ihre Mitglieder hätten. Designen sie eine REST-Schnittstelle für ein fiktionales Backend, an das später jemand anderer ein Frontend anbinden kann.
+​	Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tennisplätze für ihre Mitglieder hätte. Designen sie eine REST-Schnittstelle für ein fiktionales Backend, an das später jemand anderer ein Frontend anbinden kann.
 
 
 
