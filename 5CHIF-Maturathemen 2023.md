@@ -6,17 +6,20 @@
 
 
 
-<div hidden>
-```
+Regular **Markdown** here.
+
+<!--
 @startuml firstDiagram
+
 Alice -> Bob: Hello
 Bob -> Alice: Hi!
+	
 @enduml
-```
-</div>
+-->
 
 ![](firstDiagram.svg)
 
+Some more markdown.
 
 
 
