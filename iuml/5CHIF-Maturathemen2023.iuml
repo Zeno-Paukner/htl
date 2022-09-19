@@ -1,0 +1,28 @@
+@startmindmap
+
+* Referatsthemen
+    * P1 Netzwerktechnologien
+    * P2 Netzwerkdienste
+    * P3 Netzwerkmanagement & Netzwerksicherheit
+    * J4 Enterprise Architekturen
+        * :Testing
+        Balog Danijel
+        ;
+            * Frontend
+                *_ Selenium
+                    *_ Beispiel mit Selenium & Java
+                *_ Graphene
+            * Backend
+                *_ JPA
+                    *_ JavaSE-JUnit Client, der Korrektheit eines Datenmodells prüft
+                *_ REST loadtesting mit Galing
+                *_ Cucumber
+                *_ REST API testing mit Karate
+                *_ RESTasured
+                *_ Testcontainers
+            * Theorie
+    * J5 Webapplikationen
+    * J6 Client-Server Architekturen & Mobile Computing
+    * J7 Systemnahe & hardwarenahe Programmierung
+
+@endmindmap
