@@ -1,11 +1,11 @@
 @startmindmap
 
-* Referatsthemen
-	* P1 Netzwerktechnologien
-	* P2 Netzwerkdienste
-	* P3 Netzwerkmanagement & Netzwerksicherheit
-	* J4 Enterprise Architekturen
-		* Testing (Balog Danijel)
+*[#Pink] Referatsthemen
+	*[#LightBlue] P1 Netzwerktechnologien
+	*[#LightBlue] P2 Netzwerkdienste
+	*[#LightBlue] P3 Netzwerkmanagement & Netzwerksicherheit
+	*[#LightBlue] J4 Enterprise Architekturen
+		*[#LightGreen] Testing (Balog Danijel)
 			* Frontend
 				*_ Selenium
 					*_ Beispiel mit Selenium & Java
@@ -19,8 +19,20 @@
 				*_ RESTasured
 				*_ Testcontainers
 			* Theorie
-	* J5 Webapplikationen
-	* J6 Client-Server Architekturen & Mobile Computing
-	* J7 Systemnahe & hardwarenahe Programmierung
+		*[#LightGreen] CDI (Schwarz Markus)
+			*_ Konzepte
+				*_ @Inject vs. @EJB
+				*_ Events
+					*_ Synchronous
+					*_ Asynchronous
+				*_ Decorators
+				*_ Interceptors
+			*_ Implementierungen
+				*_ ArC (Quarkus)
+				*_ Seam
+				*_ Weld
+	*[#LightBlue] J5 Webapplikationen
+	*[#LightBlue] J6 Client-Server Architekturen & Mobile Computing
+	*[#LightBlue] J7 Systemnahe & hardwarenahe Programmierung
 
 @endmindmap

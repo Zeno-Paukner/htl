@@ -2,29 +2,9 @@
 
 [Back To README.md][back]
 
-![5CHIF - Referatsthemen](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://github.com/UnterrainerInformatik/htl/blob/master/iuml/5CHIF-Maturathemen2023.iuml)
+![5CHIF - Referatsthemen](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/iuml/5CHIF-Maturathemen2023.iuml)
 
-
-
-Regular **Markdown** here.
-
-```plantuml
-@startuml
-() " " as u1
-() " " as u2
-() " " as u3
-() " " as u4
-() " " as u5
-() " " as u6
-u1 -- u2
-u3 -down- u4
-u5 -up- u6
-@enduml
-```
-
-![Vertical Line](vertical-line.png)
-
-Some more markdown.
+![exampledewqf-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml)
 
 
 
