@@ -19,13 +19,20 @@
 ## 1. Einheit 2022-09-19
 
 - Referatsthemen aussuchen
+
 - Termine für Referate aussuchen
 
-	### Hausübung
+- REST - Representational State Transfer
+  https://github.com/UnterrainerInformatik/htl/blob/master/REST%20-%20Representational%20State%20Transfer.pdf
+
+  ### Hausübung
 
 - Maven installieren
+
 - Java installieren
+
 - IntelliJ updaten und ausprobieren
+
 - VS-Code/Android Studio updaten und ausprobieren
 
 

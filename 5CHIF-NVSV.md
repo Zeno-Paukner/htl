@@ -21,7 +21,10 @@
 - Referatsthemen aussuchen
 - Termine für Referate aussuchen
 
-	### Hausübung
+- REST - Representational State Transfer
+  https://github.com/UnterrainerInformatik/htl/blob/master/REST%20-%20Representational%20State%20Transfer.pdf
+
+  ### Hausübung
 
 - Maven installieren
 - Java installieren
