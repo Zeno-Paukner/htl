@@ -8,16 +8,21 @@
 
 Regular **Markdown** here.
 
-<!--
-@startuml firstDiagram
-
-Alice -> Bob: Hello
-Bob -> Alice: Hi!
-	
+```plantuml
+@startuml
+() " " as u1
+() " " as u2
+() " " as u3
+() " " as u4
+() " " as u5
+() " " as u6
+u1 -- u2
+u3 -down- u4
+u5 -up- u6
 @enduml
--->
+```
 
-![](firstDiagram.svg)
+![Vertical Line](vertical-line.png)
 
 Some more markdown.
 
