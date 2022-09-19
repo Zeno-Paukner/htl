@@ -2,7 +2,7 @@
 
 [Back To README.md][back]
 
-<img src="https://github.com/UnterrainerInformatik/htl/blob/master/img/5BHIF-Maturathemen%202023.svg" alt="" width="1080" />
+<img src="https://github.com/UnterrainerInformatik/htl/blob/master/img/5BHIF-Maturathemen2023.svg" alt="" width="1080" />
 
 [Back To README.md][back]
 
