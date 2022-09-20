@@ -12,9 +12,28 @@
 
 <br>
 
+https://classroom.github.com/classrooms/13517396-nvs-5chif
+
+<br>
+
 <img src="https://github.com/UnterrainerInformatik/htl/blob/master/img/5CHIF-Stundenplan.png" />
 
 <br>
+
+## 2. Einheit 2022-09-26
+
+* Github-Classroom beitreten:
+  https://classroom.github.com/classrooms/13517396-nvs-5chif
+* REST-Beispiel:
+  Eine Bibliothek hätte gerne ein REST-Backend für das Entleihen der Bücher. Bitte designen Sie alle dafür notwendigen REST-Endpunkte.
+* Component-Diagram
+* REST-Caching
+  https://github.com/UnterrainerInformatik/htl/blob/master/presentations/rest-caching.pdf
+* HTTP-Methods
+
+### Hausübung
+
+​	Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tennisplätze für ihre Mitglieder hätte. Designen sie eine REST-Schnittstelle für ein fiktionales Backend, an das später jemand anderer ein Frontend anbinden kann.
 
 ## 1. Einheit 2022-09-19
 
@@ -22,7 +41,7 @@
 - Termine für Referate aussuchen
 
 - REST - Representational State Transfer
-  https://github.com/UnterrainerInformatik/htl/blob/master/REST%20-%20Representational%20State%20Transfer.pdf
+  https://github.com/UnterrainerInformatik/htl/blob/master/presentations/rest.pdf
 
   ### Hausübung
 
@@ -30,16 +49,6 @@
 - Java installieren
 - IntelliJ updaten und ausprobieren
 - VS-Code/Android Studio updaten und ausprobieren
-
-
-
-## 2. Einheit 2022-09-26
-
-
-
-### Hausübung
-
-​	Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tennisplätze für ihre Mitglieder hätte. Designen sie eine REST-Schnittstelle für ein fiktionales Backend, an das später jemand anderer ein Frontend anbinden kann.
 
 
 
