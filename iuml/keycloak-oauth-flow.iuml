@@ -1,0 +1,35 @@
+@startuml oauth-flow
+
+"frontend-server" as front <- browser : GET js-app
+browser <-- front : response
+...
+
+group js-app [client]
+
+...
+browser -> "backend-server" as back : GET protected data\n <b>without JWT!</b>
+back --> browser : redirect to auth-server\n<i> + data</i>\n<i> + redirection URL for later</i>
+...
+
+browser -> "auth-server (KeyCloak)" as auth : auth-request\n<i> + data</i>\n<i> + redirection URL for later</i>
+
+note over auth
+auth-server evaluates if a login is required...
+end note
+
+else needs authentication
+auth --> browser : authentication form
+browser -> auth : form data
+
+note over auth
+auth-server evaluates authentication data
+end note
+
+else authenticated
+auth --> browser : redirect to redirection URL\n <b>+ JWT</b>
+browser -> back : GET redirection URL\n <b>+ JWT</b>
+back --> browser : response with protected data
+
+end
+
+@enduml
