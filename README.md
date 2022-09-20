@@ -5,9 +5,6 @@ Auch erreichbar unter https://bit.ly/LeoHtl
 
 
 
-* [CPRSW (2. Klasse)][cprsw2]
-* [NVSV (4. Klasse)][nvsv4]
-
 ### 5BHIF
 
 * [NVSV (5B. Klasse)][nvsv5b]
@@ -18,14 +15,14 @@ Auch erreichbar unter https://bit.ly/LeoHtl
 * [NVSV (5C. Klasse)][nvsv5c]
 * [NVSV Referatsthemen][nvsv5cref]
 
+<br>
 
+<br>
 
 * [NVSV Referatsthemen - Vorschläge 2023][nvsv5referate]
 
 
 
-[cprsw2]: 2-CPRSW.md
-[nvsv4]: 4-NVSV.md
 [nvsv5b]:  5BHIF-NVSV.md
 [nvsv5bref]: 5BHIF-Maturathemen%202023.md
 [nvsv5c]: 5CHIF-NVSV.md
