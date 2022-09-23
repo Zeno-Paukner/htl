@@ -1,0 +1,53 @@
+@startuml access-flow
+
+hnote over front : get app
+"frontend-server" as front <- browser : GET js-app
+browser <-- front : response
+...
+
+group js-app [client]
+...
+
+hnote over browser : get protected data
+browser -> "backend-server" as back : GET protected data\n <b>with old access-token in bearer</b>
+back --> browser : not allowed!
+
+else no access-token / refresh-token available yet || existing tokens timed out
+...
+
+hnote over browser : get new tokens
+browser -> auth : autorization request
+
+note over auth
+auth-server evaluates if a login is required...
+end note
+
+else needs authentication
+auth --> browser : authentication form
+browser -> auth : form data
+
+note over auth
+auth-server evaluates authentication data
+end note
+
+else authenticated
+auth --> browser : redirect to redirection URL\n <b>+ auth-code</b>
+...
+
+hnote over browser : get tokens
+browser -> auth : token-request\n<i> + clientID\n<i> + client secret\n<b> + auth-code</b>
+
+note over auth
+verifies data
+end note
+
+auth --> browser : <b>access-token & refresh-token</b>
+...
+
+hnote over browser : get protected data
+browser -> back : GET protected data\n <b>+ access-token in bearer</b>
+back --> browser : response with protected data
+
+end
+
+@enduml
