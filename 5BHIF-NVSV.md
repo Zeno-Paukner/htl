@@ -28,9 +28,8 @@ https://classroom.github.com/classrooms/13517396-nvs-5bhif
 * REST-Beispiel:
   Eine Bibliothek hätte gerne ein REST-Backend für das Entleihen der Bücher. Bitte designen Sie alle dafür notwendigen REST-Endpunkte.
 * Component-Diagram
-* REST-Caching
-  https://github.com/UnterrainerInformatik/htl/blob/master/presentations/rest-caching.pdf
-* HTTP-Methods
+* [REST-Caching](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/rest-caching.pdf)
+* [HTTP-Methods (REST - Representational State Transfer)](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/rest-intro.pdf)
 
 ### Hausübung
 
@@ -42,8 +41,7 @@ https://classroom.github.com/classrooms/13517396-nvs-5bhif
 
 - Termine für Referate aussuchen
 
-- REST - Representational State Transfer
-  https://github.com/UnterrainerInformatik/htl/blob/master/presentations/rest.pdf
+- [REST - Representational State Transfer](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/rest-intro.pdf)
 
   ### Hausübung
 

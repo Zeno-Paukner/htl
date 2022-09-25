@@ -1,0 +1,40 @@
+@startuml REST-Library
+
+allowmixing
+
+object book {
+    name
+    genre
+    ISBN
+    borrowPriceForADay
+}
+
+object customer {
+    firstName
+    lastName
+}
+
+object borrowdata {
+    date
+    burrowedForDays
+}
+
+object receipt {
+    sum
+    date
+}
+
+object payment {
+    method
+    sum
+    date
+}
+
+borrowdata o-- book
+borrowdata o-- customer
+
+borrowdata *-- receipt
+
+receipt *-- payment
+
+@enduml
