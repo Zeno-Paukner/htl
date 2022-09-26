@@ -41,6 +41,8 @@ Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tenni
 
 ### Hausübung
 
+https://classroom.github.com/a/UBJO6mGP
+
 Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tennisplätze für ihre Mitglieder hätte. Bitte zeigen Sie alle dafür notwendigen Komponenten auf.
 
 ## 1. Einheit 2022-09-19
