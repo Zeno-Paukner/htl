@@ -20,6 +20,12 @@ https://classroom.github.com/classrooms/13517396-nvs-5chif
 
 <br>
 
+## 3. Einheit 2022-10-03
+
+### Hausübung
+
+Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tennisplätze für ihre Mitglieder hätte. Designen sie eine REST-Schnittstelle für ein fiktionales Backend, an das später jemand anderer ein Frontend anbinden kann.
+
 ## 2. Einheit 2022-09-26
 
 * Github-Classroom beitreten:
@@ -32,7 +38,7 @@ https://classroom.github.com/classrooms/13517396-nvs-5chif
 
 ### Hausübung
 
-​	Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tennisplätze für ihre Mitglieder hätte. Designen sie eine REST-Schnittstelle für ein fiktionales Backend, an das später jemand anderer ein Frontend anbinden kann.
+Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tennisplätze für ihre Mitglieder hätte. Designen sie ein Sytem via Komponentendiagramm, das via REST-Schnittstelle von überall aus erreichbar sein soll.
 
 ## 1. Einheit 2022-09-19
 
