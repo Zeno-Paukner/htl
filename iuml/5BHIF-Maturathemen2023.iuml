@@ -104,7 +104,8 @@ Concurrency zu zeigen;
 *****_ Resiliance4j
 *****_ Circuit Breaker
 
-***[#LawnGreen] Reactive vs. imperative
+***[#LightGreen]:Reactive vs. imperative
+<b>Stummer Benedikt</b>;
 ****[#LightGoldenRodYellow] Codebeispiel mit Quarkus
 *****_ einfaches Beispiel
 ******_ imperativ programmiert
@@ -228,7 +229,8 @@ in Docker Registry;
 **[#DodgerBlue]:J7 Systemnahe &
 hardwarenahe Programmierung;
 
-***[#LawnGreen] Messaging
+***[#LightGreen]:Messaging
+<b>Crnčević Imad</b>;
 ****[#LightGoldenRodYellow] MQTT
 *****_ Publisher-Subscriber Pattern
 *****_ Mosquitto
