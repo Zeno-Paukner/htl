@@ -28,8 +28,6 @@ Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tenni
 
 ## 2. Einheit 2022-09-26
 
-* Github-Classroom beitreten:
-  https://classroom.github.com/classrooms/13517396-nvs-5chif
 * Komponentendiagramm:
   Eine Bibliothek hätte gerne eine System für das Entleihen der Bücher. Bitte zeigen Sie alle dafür notwendigen Komponenten auf.
   ![Library Component Diagram](http://plantuml.unterrainer.info/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/iuml/component-library.iuml?)
@@ -41,7 +39,7 @@ Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tenni
 
 ### Hausübung
 
-https://classroom.github.com/a/UBJO6mGP
+
 
 Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tennisplätze für ihre Mitglieder hätte. Bitte zeigen Sie alle dafür notwendigen Komponenten auf.
 

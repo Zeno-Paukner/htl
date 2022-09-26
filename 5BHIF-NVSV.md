@@ -28,8 +28,6 @@ Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tenni
 
 ## 2. Einheit 2022-09-26
 
-* Github-Classroom beitreten:
-  https://classroom.github.com/classrooms/13517396-nvs-5bhif
 * Referatsthemen und Termine aussuchen Teil 2
 * Komponentendiagramm:
   Eine Bibliothek hätte gerne eine System für das Entleihen der Bücher. Bitte zeigen Sie alle dafür notwendigen Komponenten auf.
@@ -41,6 +39,8 @@ Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tenni
 * [HTTP-Methods (REST - Representational State Transfer)](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/rest-intro.pdf)
 
 ### Hausübung
+
+https://classroom.github.com/a/UBJO6mGP
 
 Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tennisplätze für ihre Mitglieder hätte. Bitte zeigen Sie alle dafür notwendigen Komponenten auf.
 
