@@ -260,7 +260,8 @@ hardwarenahe Programmierung;
 ****[#LightGoldenRodYellow] Use-cases
 ****[#LightGoldenRodYellow] Abgrenzung zu MQTT
 
-***[#LawnGreen] Raspberry
+***[#LightGreen]:Raspberry
+<b>(Detta Alessandro)</b>;
 ****[#LightGoldenRodYellow] openHAB
 
 ***[#LawnGreen] IoT
