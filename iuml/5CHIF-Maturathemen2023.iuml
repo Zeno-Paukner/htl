@@ -71,7 +71,8 @@ ServletFilter;
 *****_ CORS
 *****_ Reverse Proxy (Traefik)
 
-***[#LawnGreen] Zugriff auf Datenbanken
+***[#LightGreen]:Zugriff auf Datenbanken
+<b>Peric Antonio</b>;
 ****[#LightGoldenRodYellow] RDB vs. noSQL
 ****[#LightGoldenRodYellow] Kafka
 ****[#LightGoldenRodYellow] Reactive vs. imperative
@@ -236,7 +237,8 @@ in Docker Registry;
 **[#DodgerBlue]:J7 Systemnahe &
 hardwarenahe Programmierung;
 
-***[#LawnGreen] Messaging
+***[#LightGreen]:Messaging
+<b>Kuvac Antonio</b>;
 ****[#LightGoldenRodYellow] MQTT
 *****_ Publisher-Subscriber Pattern
 *****_ Mosquitto
