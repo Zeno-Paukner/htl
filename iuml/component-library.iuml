@@ -1,0 +1,23 @@
+@startuml
+
+interface Reservierungen <<rest-interface>>
+
+frame backend-server {
+    component "quarkus-backend" <<component>> as backend
+}
+
+backend -- Reservierungen
+
+frame webserver {
+    component "frontend (angular)" <<component>> as frontend
+}
+
+frame customer {
+    component browser <<component>>
+    component [rest-client] <<subcomponent>>
+}
+
+Reservierungen )-- [rest-client]
+browser ..> frontend : load
+browser *-- [rest-client]
+@enduml
