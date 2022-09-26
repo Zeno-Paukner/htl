@@ -6,6 +6,11 @@ frame backend-server {
     component "quarkus-backend" <<component>> as backend
 }
 
+database "db-backend" as db {
+}
+
+backend --> db : uses
+
 backend -- Reservierungen
 
 frame webserver {

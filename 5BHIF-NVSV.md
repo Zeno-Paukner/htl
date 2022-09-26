@@ -33,7 +33,7 @@ Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tenni
 * Referatsthemen und Termine aussuchen Teil 2
 * Komponentendiagramm:
   Eine Bibliothek hätte gerne eine System für das Entleihen der Bücher. Bitte zeigen Sie alle dafür notwendigen Komponenten auf.
-  ![5CHIF - Referatsthemen](http://plantuml.unterrainer.info/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/iuml/component-library.iuml?)
+  ![Library Component Diagram](http://plantuml.unterrainer.info/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/iuml/component-library.iuml?)
 * REST-Beispiel:
   Eine Bibliothek hätte gerne ein REST-Backend für das Entleihen der Bücher. Bitte designen Sie alle dafür notwendigen REST-Endpunkte.
 * Component-Diagram
@@ -42,7 +42,7 @@ Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tenni
 
 ### Hausübung
 
-Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tennisplätze für ihre Mitglieder hätte. Designen sie ein Sytem via Komponentendiagramm, das via REST-Schnittstelle von überall aus erreichbar sein soll.
+Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tennisplätze für ihre Mitglieder hätte. Bitte zeigen Sie alle dafür notwendigen Komponenten auf.
 
 ## 1. Einheit 2022-09-19
 
