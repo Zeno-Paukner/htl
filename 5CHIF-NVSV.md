@@ -30,6 +30,8 @@ Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tenni
 
 * Github-Classroom beitreten:
   https://classroom.github.com/classrooms/13517396-nvs-5chif
+* Komponentendiagramm:
+  Eine Bibliothek hätte gerne eine System für das Entleihen der Bücher. Bitte zeigen Sie alle dafür notwendigen Komponenten auf.
 * REST-Beispiel:
   Eine Bibliothek hätte gerne ein REST-Backend für das Entleihen der Bücher. Bitte designen Sie alle dafür notwendigen REST-Endpunkte.
 * Component-Diagram
