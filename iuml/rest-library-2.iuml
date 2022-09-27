@@ -1,0 +1,41 @@
+@startuml
+
+object customer {
+    firstName
+    lastName
+    birthday
+    telephone
+}
+
+object yearlySubscription {
+    year
+}
+
+object invoice {
+    value
+    isPayed
+    paymentMethod
+}
+
+yearlySubscription --* customer : n
+invoice --* yearlySubscription : 1
+
+object lendout {
+    date
+    lendingDuration
+}
+
+lendout o-- customer : 1
+lendout o-- book : n
+
+object book {
+    author
+    publisher
+    ISBN
+    releaseDate
+    language
+    pricePerDay
+    title
+}
+
+@enduml

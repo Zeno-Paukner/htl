@@ -38,6 +38,7 @@ Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tenni
   ![Library Component Diagram](http://plantuml.unterrainer.info/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/iuml/component-library.iuml?)
 * REST-Beispiel:
   Eine Bibliothek hätte gerne ein REST-Backend für das Entleihen der Bücher. Bitte designen Sie alle dafür notwendigen REST-Endpunkte.
+  ![Library REST Design](http://plantuml.unterrainer.info/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/iuml/rest-library.iuml?)
 * [REST-Caching](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/rest-caching.pdf)
 * [HTTP-Methods (REST - Representational State Transfer)](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/rest-intro.pdf)
 
