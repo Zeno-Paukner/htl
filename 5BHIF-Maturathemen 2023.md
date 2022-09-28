@@ -2,7 +2,7 @@
 
 [Back To README.md][back]
 
-![5CHIF - Referatsthemen](http://plantuml.unterrainer.info/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/iuml/5BHIF-Maturathemen2023.iuml?)
+![5CHIF - Referatsthemen](http://plantuml.unterrainer.info/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/iuml/5BHIF-Maturathemen2023.iuml)
 
 [Back To README.md][back]
 
