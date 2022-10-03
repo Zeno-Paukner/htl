@@ -18,7 +18,7 @@ https://classroom.github.com/a/0pIFwT2Q
 
 ## 4. Einheit 2022-10-03
 
-* [ACID/Event Sourcing/Eventual Consistency](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/acid-base-eventsourcing.pdf)
+* [ACID/BASE/Event Sourcing](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/acid-base-eventsourcing.pdf)
 * ##### Übungsbeispiel REST-Design
 
   * Ein Hersteller von PV-Anlagen mit Batterieanbindung möchte eine REST-Schnittstelle für ihr System anbieten, das es ermöglichen soll in Echtzeit auf die aktuellen Daten zugreifen zu können. Weiters sollte es auch die Möglichkeit geben, auf historische Daten (Retention-time der Echtzeitdaten = 1 Monat) zuzugreifen, um, zum Beispiel, Diagramme darstellen zu können.
