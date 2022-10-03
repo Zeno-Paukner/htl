@@ -18,8 +18,14 @@ https://classroom.github.com/a/QTfc9_Zk
 
 ## 4. Einheit 2022-10-03
 
-* [ACID/Event Sourcing/Eventual Consistency](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/acid-eventsourcing-eventualconsistency.pdf)
-* 
+* [ACID/Event Sourcing/Eventual Consistency](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/acid-base-eventsourcing.pdf)
+
+* ##### Übungsbeispiel REST-Design
+
+  * Ein Hersteller von PV-Anlagen mit Batterieanbindung möchte eine REST-Schnittstelle für ihr System anbieten, das es ermöglichen soll in Echtzeit auf die aktuellen Daten zugreifen zu können. Weiters sollte es auch die Möglichkeit geben, auf historische Daten (Retention-time der Echtzeitdaten = 1 Monat) zuzugreifen, um, zum Beispiel, Diagramme darstellen zu können.
+    * Erstellen Sie ein REST-Interface-Design
+    * Begründen Sie die Wahl der Endpunkte
+    * Wie verhält sich Ihr Design in Bezug auf Caching?
 
 
 ### Hausübung
@@ -36,15 +42,12 @@ Suchen Sie sich eine Library am Backend aus, die das von ihnen verwendete Verfah
 ## 3. Einheit 2022-10-03
 
 * [Keycloak Wiederholung / Vertiefung](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/keycloak-auth.pdf)
-* Übungsbeispiel Komponentendesign
+
+* ##### Übungsbeispiel Komponentendesign
+  
   * Eine Restaurantkette möchte ein neues System zur Rechnungslegung / Verrechnung / Abrechnung in seinen 50 Filialen etablieren. Besonders wichtig hierbei ist eine zentrale Verwaltungsstelle, aktuelle (live) Daten und eine Schnittstelle für den Steuerberater.
     * Erstellen Sie ein Komponentendiagramm.
     * Begründen Sie Ihre Technologieentscheidungen
-* Übungsbeispiel REST-Design
-  * Ein Hersteller von PV-Anlagen mit Batterieanbindung möchte eine REST-Schnittstelle für ihr System anbieten, das es ermöglichen soll in Echtzeit auf die aktuellen Daten zugreifen zu können. Weiters sollte es auch die Möglichkeit geben, auf historische Daten (Retention-time der Echtzeitdaten = 1 Monat) zuzugreifen, um, zum Beispiel, Diagramme darstellen zu können.
-    * Erstellen Sie ein REST-Interface-Design
-    * Begründen Sie die Wahl der Endpunkte
-    * Wie verhält sich Ihr Design in Bezug auf Caching?
 
 
 ### Hausübung
