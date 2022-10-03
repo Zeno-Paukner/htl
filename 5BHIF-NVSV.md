@@ -7,7 +7,7 @@
 ### 1. Semester
 ----
 <br>
-![Stundenplan](https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/img/5BHIF-Stundenplan.png?)
+![Stundenplan](https://github.com/UnterrainerInformatik/htl/blob/master/img/5BHIF-Stundenplan.png?)
 <br>
 
 # Referate
