@@ -32,6 +32,7 @@ https://classroom.github.com/a/QTfc9_Zk
 
 ### Hausübung
 https://classroom.github.com/a/6OTbv_jq
+
 Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tennisplätze für ihre Mitglieder hätte. Designen sie eine REST-Schnittstelle für ein fiktionales Backend, an das später jemand anderer ein Frontend anbinden kann.
 
 ## 2. Einheit 2022-09-26
@@ -47,6 +48,7 @@ Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tenni
 
 ### Hausübung
 https://classroom.github.com/a/1pBh-XC1
+
 Sie haben einen Tennisverein, der gerne ein Reservierungssystem für die 7 Tennisplätze für ihre Mitglieder hätte. Bitte zeigen Sie alle dafür notwendigen Komponenten auf.
 
 ## 1. Einheit 2022-09-19
