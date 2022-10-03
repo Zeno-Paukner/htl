@@ -16,6 +16,23 @@ https://classroom.github.com/a/QTfc9_Zk
 
 
 
+## 4. Einheit 2022-10-03
+
+* [ACID/Event Sourcing/Eventual Consistency](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/acid-eventsourcing-eventualconsistency.pdf)
+* 
+
+
+### Hausübung
+
+https://classroom.github.com/a/IfaIcMYv
+
+Beschreiben Sie die möglichkeiten zur Absicherung einer Web-Applikation.
+Erklären Sie das verwendete Verfahren.
+Suchen Sie sich eine Library am Frontend aus, die das von ihnen verwendete Verfahren unterstützt.
+Suchen Sie sich eine Library am Backend aus, die das von ihnen verwendete Verfahren unterstützt.
+
+
+
 ## 3. Einheit 2022-10-03
 
 * [Keycloak Wiederholung / Vertiefung](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/keycloak-auth.pdf)
