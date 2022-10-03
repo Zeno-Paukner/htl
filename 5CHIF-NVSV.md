@@ -5,9 +5,8 @@
 ----
 
 ### 1. Semester
-----
-<br>
 ![Stundenplan](https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/img/5CHIF-Stundenplan.png?)
+
 <br>
 
 # Referate
