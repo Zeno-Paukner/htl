@@ -16,7 +16,21 @@ https://classroom.github.com/a/QTfc9_Zk
 
 
 
-## 4. Einheit 2022-10-03
+
+
+## 5. Einheit 2022-10-17
+
+* Auflösung letzter Hausübung
+* [ACID/BASE/Event Sourcing Part 2](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/acid-base-eventsourcing.pdf)
+* [Serverless](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/serverless.pdf)
+
+### Hausübung
+
+Nichts
+
+
+
+## 4. Einheit 2022-10-10
 
 * Moodle-Tests
 
@@ -24,7 +38,7 @@ https://classroom.github.com/a/QTfc9_Zk
 
   * Test von letzter Woche
 
-* [ACID/BASE/Event Sourcing](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/acid-base-eventsourcing.pdf)
+* [ACID/BASE/Event Sourcing Part 1](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/acid-base-eventsourcing.pdf)
 
 * ##### Übungsbeispiel REST-Design
 
