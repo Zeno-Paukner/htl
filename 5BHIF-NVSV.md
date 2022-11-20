@@ -18,11 +18,50 @@ https://classroom.github.com/a/0pIFwT2Q
 
 
 
-## 5. Einheit 2022-10-17
+## 6. Einheit 2022-11-21
+
+* [Logging](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/logging.pdf)
+* Fragen
+  * **ACID / BASE / Event Sourcing**
+    * Erklären Sie das CAP-Theorem.
+      * Wo würden Sie MariaDB platzieren?
+      * Wo würden Sie ein GIT-Projekt platzieren?
+
+    * Beschreiben Sie die ACID-Kriterien.
+    * Was ist Eventual Consistency und warum ist sie so wichtig für verteilte Systeme?
+    * Beschreiben Sie Event-Sourcing.
+      * Was sind die Vorteile?
+      * Was sind die Nachteile?
+
+  * **AOP**
+    Sie wurden von einer Firma beauftragt ein internes Caching innerhalb ihres Java-Stacks zu implementieren. Bestimmte Methoden, die lange laufen, sollen gechached werden und im Falle eines Cache-Hits soll das alte Ergebnis ausgeliefert werden.
+    Der Kunde verwendet Quarkus mit Panache als Backend.
+    * Nach welchen prinzipiellen Architekturschema würden Sie hier vorgehen?
+    * Welche beiden Möglichkeiten gibt es dieses Architekturschema zu verwenden?
+    * Nennen Sie Beispiele für Cross-Cutting-Concerns.
+    * Auf welche Art kann AOP in Quarkus angewandt werden und wie heißen die beiden Programmierkonstrukte die dabei benutzt werden können?
+      Zu welcher Library gehören diese beiden Teile?
+      Was ist der Unterschied zwischen ihnen?
+  * **Serverless**
+    Sie möchten in einem Betrieb beginnen, der eine Serverless-Architektur verwendet um ihr Produkt zu betreiben.
+    * Was sind die wesentlichen Bestandteile einer Serverless-Architektur?
+    * Was sind die wesentlichen Vorteile einer Serverless-Architektur?
+    * Was ist ein Cold-Start-Delay und wie kann man es zum Beispiel verhindern?
+    * Was ist ein Vendor-Lock-In und wie macht sich soetwas bemerkbar?
+
+
+### Hausübung
+
+Nichts
+
+
+
+## 5. Einheit 2022-11-14
 
 * Auflösung letzter Hausübung
 * [ACID/BASE/Event Sourcing Part 2](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/acid-base-eventsourcing.pdf)
 * [Serverless](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/serverless.pdf)
+* [Aspect Oriented Programming](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/aop.pdf)
 
 ### Hausübung
 Nichts

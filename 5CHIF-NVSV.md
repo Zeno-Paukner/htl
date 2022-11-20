@@ -18,7 +18,34 @@ https://classroom.github.com/a/QTfc9_Zk
 
 
 
-## 5. Einheit 2022-10-17
+## 6. Einheit 2022-11-21
+
+* [Aspect Oriented Programming](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/aop.pdf)
+* [Logging](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/logging.pdf)
+* Fragen
+  * **ACID / BASE / Event Sourcing**
+    * Erklären Sie das CAP-Theorem.
+      * Wo würden Sie MariaDB platzieren?
+      * Wo würden Sie ein GIT-Projekt platzieren?
+    * Beschreiben Sie die ACID-Kriterien.
+    * Was ist Eventual Consistency und warum ist sie so wichtig für verteilte Systeme?
+    * Beschreiben Sie Event-Sourcing.
+      * Was sind die Vorteile?
+      * Was sind die Nachteile?
+  * **Serverless**
+    Sie möchten in einem Betrieb beginnen, der eine Serverless-Architektur verwendet um ihr Produkt zu betreiben.
+    * Was sind die wesentlichen Bestandteile einer Serverless-Architektur?
+    * Was sind die wesentlichen Vorteile einer Serverless-Architektur?
+    * Was ist ein Cold-Start-Delay und wie kann man es zum Beispiel verhindern?
+    * Was ist ein Vendor-Lock-In und wie macht sich soetwas bemerkbar?
+
+### Hausübung
+
+Nichts
+
+
+
+## 5. Einheit 2022-11-21
 
 * Auflösung letzter Hausübung
 * [ACID/BASE/Event Sourcing Part 2](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/acid-base-eventsourcing.pdf)
