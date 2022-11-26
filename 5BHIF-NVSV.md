@@ -18,9 +18,11 @@ https://classroom.github.com/a/0pIFwT2Q
 
 
 
-## 6. Einheit 2022-11-21
+## 7. Einheit 2022-11-28
 
-* [Logging](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/logging.pdf)
+* [Pushing Webservers](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/pushing-webservers.pdf)
+* gRPC Demo
+  https://github.com/UnterrainerInformatik/htl-grpc-client
 * Fragen
   * **ACID / BASE / Event Sourcing**
     * Erklären Sie das CAP-Theorem.
@@ -48,6 +50,17 @@ https://classroom.github.com/a/0pIFwT2Q
     * Was sind die wesentlichen Vorteile einer Serverless-Architektur?
     * Was ist ein Cold-Start-Delay und wie kann man es zum Beispiel verhindern?
     * Was ist ein Vendor-Lock-In und wie macht sich soetwas bemerkbar?
+
+
+### Hausübung
+
+Nichts
+
+
+
+## 6. Einheit 2022-11-21
+
+* [Logging](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/logging.pdf)
 
 
 ### Hausübung
