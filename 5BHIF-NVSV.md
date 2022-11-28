@@ -58,9 +58,9 @@ https://classroom.github.com/a/T3NnjHl8
 
 Suchen Sie Sich ein beliebiges Framework von der gRPC-Seite aus, außer JAVA.
 https://grpc.io/docs/languages/
-* Implementieren Sie einen Client analog zum Repository (Java) https://github.com/UnterrainerInformatik/htl-grpc-client
-  https://jsonata.org/
-  https://try.jsonata.org/
+* Implementieren Sie einen Client analog zum Repository https://github.com/UnterrainerInformatik/htl-grpc-client
+  * https://jsonata.org/
+  * https://try.jsonata.org/
 * Checken Sie den Code in das Hausübungs-Repository ein.
 * Senden Sie einen Request an den Server, der zu `false` evaluiert wird und speichern sie einen Screenshot, der dieses Ergebnis zeigt (in Ihrer IDE) in das Repository.
 * Senden Sie einen Request an den Server, der zu `true` evaluiert wird und speichern sie einen Screenshot, der dieses Ergebnis zeigt (in Ihrer IDE) in das Repository.
