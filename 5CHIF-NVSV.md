@@ -65,6 +65,8 @@ https://grpc.io/docs/languages/
 * Senden Sie einen Request an den Server, der zu `false` evaluiert wird und speichern sie einen Screenshot, der dieses Ergebnis zeigt (in Ihrer IDE) in das Repository.
 * Senden Sie einen Request an den Server, der zu `true` evaluiert wird und speichern sie einen Screenshot, der dieses Ergebnis zeigt (in Ihrer IDE) in das Repository.
 
+JSONata https://jsonata.org/
+JSONata Exerciser https://try.jsonata.org/
 
 
 ## 6. Einheit 2022-11-21
