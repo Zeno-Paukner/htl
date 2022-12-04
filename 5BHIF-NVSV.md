@@ -18,11 +18,10 @@ https://classroom.github.com/a/0pIFwT2Q
 
 
 
-## 7. Einheit 2022-11-28
+## 8. Einheit 2022-12-05
 
 * [Pushing Webservers](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/pushing-webservers.pdf)
-* gRPC Demo
-  https://github.com/UnterrainerInformatik/htl-grpc-client
+* [Message Queues](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/message-queues.pdf)
 * Fragen
   * **ACID / BASE / Event Sourcing**
     * Erklären Sie das CAP-Theorem.
@@ -51,6 +50,17 @@ https://classroom.github.com/a/0pIFwT2Q
     * Was ist ein Cold-Start-Delay und wie kann man es zum Beispiel verhindern?
     * Was ist ein Vendor-Lock-In und wie macht sich soetwas bemerkbar?
 
+### Hausübung
+
+Nichts
+
+
+
+## 7. Einheit 2022-11-28
+
+* gRPC Demo
+  https://github.com/UnterrainerInformatik/htl-grpc-client
+
 
 ### Hausübung
 
@@ -64,6 +74,8 @@ https://grpc.io/docs/languages/
 * Checken Sie den Code in das Hausübungs-Repository ein.
 * Senden Sie einen Request an den Server, der zu `false` evaluiert wird und speichern sie einen Screenshot, der dieses Ergebnis zeigt (in Ihrer IDE) in das Repository.
 * Senden Sie einen Request an den Server, der zu `true` evaluiert wird und speichern sie einen Screenshot, der dieses Ergebnis zeigt (in Ihrer IDE) in das Repository.
+
+
 
 
 ## 6. Einheit 2022-11-21
