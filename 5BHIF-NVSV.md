@@ -18,9 +18,8 @@ https://classroom.github.com/a/0pIFwT2Q
 
 
 
-## 8. Einheit 2022-12-05
+## 9. Einheit 2022-12-12
 
-* [Pushing Webservers](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/pushing-webservers.pdf)
 * [Message Queues](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/message-queues.pdf)
 * Fragen
   * **ACID / BASE / Event Sourcing**
@@ -53,6 +52,16 @@ https://classroom.github.com/a/0pIFwT2Q
 ### Hausübung
 
 Nichts
+
+
+
+## 8. Einheit 2022-12-05
+
+* [Pushing Webservers](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/pushing-webservers.pdf)
+
+### Hausübung
+
+Verlängerung von letzter Woche
 
 
 
