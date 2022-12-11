@@ -1,0 +1,64 @@
+@startgantt
+hide footbox
+
+printscale yearly zoom 0.5
+Project starts 1999-01-01
+1999-01-01 to 2009-01-01 are colored in LightCyan
+2009-01-02 to 2022-01-01 are colored in LightSteelBlue
+
+[Server Rendered Applications] happens on 1999-01-01
+[Client Rendered Applications] happens on 2009-01-01
+
+[Java EE] starts 1999-01-01
+[Java EE] is colored in GreenYellow/Green
+[Java EE] lasts 120 days
+[Spring Framework] starts 2000-01-01
+[Spring Framework] is colored in GreenYellow/Green
+[Spring Framework] lasts 120 days
+[Quarkus] starts 2017-01-01
+[Quarkus] is colored in GreenYellow/Green
+[Quarkus] lasts 120 days
+[Spring Boot] starts 2014-01-01
+[Spring Boot] is colored in GreenYellow/Green
+[Spring Boot] lasts 120 days
+[Jakarta EE] starts 2020-01-01
+[Jakarta EE] is colored in GreenYellow/Green
+[Jakarta EE] lasts 120 days
+[RESTeasy] starts 2009-01-01
+[RESTeasy] is colored in Fuchsia/FireBrick
+[RESTeasy] lasts 120 days
+[JAX-RS] starts 2009-01-01
+[JAX-RS] is colored in Fuchsia/FireBrick
+[JAX-RS] lasts 120 days
+[JPA 1.0] starts 2006-01-01
+[JPA 1.0] is colored in Fuchsia/FireBrick
+[JPA 1.0] lasts 120 days
+[JPA 2.2] starts 2017-01-01
+[JPA 2.2] is colored in Fuchsia/FireBrick
+[JPA 2.2] lasts 120 days
+[Jakarta Persistence 3.0] starts 2020-01-01
+[Jakarta Persistence 3.0] is colored in Fuchsia/FireBrick
+[Jakarta Persistence 3.0] lasts 120 days
+[Jakarta Persistence 3.1] starts 2022-01-01
+[Jakarta Persistence 3.1] is colored in Fuchsia/FireBrick
+[Jakarta Persistence 3.1] lasts 120 days
+[CDI] starts 2009-01-01
+[CDI] is colored in Fuchsia/FireBrick
+[CDI] lasts 120 days
+[JSONP] starts 2005-01-01
+[JSONP] is colored in Fuchsia/FireBrick
+[JSONP] lasts 120 days
+[Jackson] starts 2009-01-01
+[Jackson] is colored in Fuchsia/FireBrick
+[GWT] lasts 120 days
+[GWT] starts 2006-01-01
+[GWT] ends 2009-01-01
+[GWT] is colored in Yellow/DarkBlue
+[Jackson] lasts 120 days
+[AngularJS] starts 2009-01-01
+[AngularJS] ends 2016-01-01
+[AngularJS] is colored in Yellow/DarkBlue
+[Angular 2.0] starts 2016-01-01
+[Angular 2.0] ends 2022-01-01
+[Angular 2.0] is colored in Yellow/DarkBlue
+@endgantt
