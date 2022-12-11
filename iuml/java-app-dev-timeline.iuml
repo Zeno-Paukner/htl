@@ -9,21 +9,27 @@ Project starts 1999-01-01
 [Server Rendered Applications] happens on 1999-01-01
 [Client Rendered Applications] happens on 2009-01-01
 
-[Java EE] starts 1999-01-01
+[J2EE] starts 1999-01-01
+[J2EE] is colored in GreenYellow/Green
+[J2EE] ends 2006-01-01
+[Java EE] starts 2006-01-02
 [Java EE] is colored in GreenYellow/Green
-[Java EE] lasts 120 days
-[Spring Framework] starts 2000-01-01
-[Spring Framework] is colored in GreenYellow/Green
-[Spring Framework] lasts 120 days
+[Java EE] ends 2020-01-01
+[Jakarta EE] starts 2020-01-02
+[Jakarta EE] is colored in GreenYellow/Green
+[Jakarta EE] lasts 120 days
 [Quarkus] starts 2017-01-01
 [Quarkus] is colored in GreenYellow/Green
 [Quarkus] lasts 120 days
+[Spring Framework] starts 2000-01-01
+[Spring Framework] is colored in GreenYellow/Green
+[Spring Framework] lasts 120 days
 [Spring Boot] starts 2014-01-01
 [Spring Boot] is colored in GreenYellow/Green
 [Spring Boot] lasts 120 days
-[Jakarta EE] starts 2020-01-01
-[Jakarta EE] is colored in GreenYellow/Green
-[Jakarta EE] lasts 120 days
+[Microprofile] starts 2016-01-01
+[Microprofile] is colored in GreenYellow/Green
+[Microprofile] lasts 120 days
 [RESTeasy] starts 2009-01-01
 [RESTeasy] is colored in Fuchsia/FireBrick
 [RESTeasy] lasts 120 days
@@ -59,6 +65,39 @@ Project starts 1999-01-01
 [AngularJS] ends 2016-01-01
 [AngularJS] is colored in Yellow/DarkBlue
 [Angular 2.0] starts 2016-01-01
-[Angular 2.0] ends 2022-01-01
+[Angular 2.0] lasts 120 days
 [Angular 2.0] is colored in Yellow/DarkBlue
+[Flutter] starts 2017-01-01
+[Flutter] lasts 120 days
+[Flutter] is colored in Yellow/DarkBlue
+[Dart] starts 2011-01-01
+[Dart] lasts 120 days
+[Dart] is colored in Yellow/DarkBlue
+[Vue.js] starts 2014-01-01
+[Vue.js] lasts 120 days
+[Vue.js] is colored in Yellow/DarkBlue
+[React] starts 2013-01-01
+[React] lasts 120 days
+[React] is colored in Yellow/DarkBlue
+[C#] starts 2002-01-01
+[C#] lasts 120 days
+[C#] is colored in Cyan/DarkCyan
+[Java ... since 1996] starts 1999-01-01
+[Java ... since 1996] lasts 120 days
+[Java ... since 1996] is colored in Cyan/DarkCyan
+[Python ... since 1991] starts 1999-01-01
+[Python ... since 1991] lasts 120 days
+[Python ... since 1991] is colored in Cyan/DarkCyan
+[Kotlin] starts 2016-01-01
+[Kotlin] lasts 120 days
+[Kotlin] is colored in Cyan/DarkCyan
+[Android] starts 2008-01-01
+[Android] lasts 120 days
+[Android] is colored in Orange/DarkOrchid
+[iOS] starts 2007-01-01
+[iOS] lasts 120 days
+[iOS] is colored in Orange/DarkOrchid
+[Windows Phone] starts 2007-01-01
+[Windows Phone] ends 2015-01-01
+[Windows Phone] is colored in Orange/DarkOrchid
 @endgantt

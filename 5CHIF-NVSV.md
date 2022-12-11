@@ -20,7 +20,9 @@ https://classroom.github.com/a/QTfc9_Zk
 
 ## 9. Einheit 2022-12-12
 
+* Mitarbeitsüberprüfung
 * [Message Queues](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/message-queues.pdf)
+* [JavaEE-Spring-Microservices-Quarkus](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ee-micro-quark.pdf)
 * Fragen
   * **ACID / BASE / Event Sourcing**
     * Erklären Sie das CAP-Theorem.
@@ -57,6 +59,7 @@ Nichts
 
 ## 8. Einheit 2022-12-05
 
+* Mitarbeitsüberprüfung
 * [Pushing Webservers](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/pushing-webservers.pdf)
 
 ### Hausübung
@@ -112,11 +115,7 @@ Nichts
 
 ## 4. Einheit 2022-10-10
 
-* Moodle-Tests
-
-  * Einschreiben
-
-  * Test von letzter Woche
+* Mitarbeitsüberprüfung
 
 * [ACID/BASE/Event Sourcing Part 1](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/acid-base-eventsourcing.pdf)
 
@@ -140,6 +139,8 @@ Suchen Sie sich eine Library am Backend aus, die das von ihnen verwendete Verfah
 
 
 ## 3. Einheit 2022-10-03
+
+* Mitarbeitsüberprüfung
 
 * [Keycloak Wiederholung / Vertiefung](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/keycloak-auth.pdf)
 
