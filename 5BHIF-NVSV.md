@@ -19,6 +19,7 @@ https://classroom.github.com/a/0pIFwT2Q
 ## 10. Einheit 2022-12-19
 
 * Mitarbeitsüberprüfung
+* Vorläufige Noten durchsehen... bis Semesterende hamma dann nach heute nur noch 6x und ich versprech nicht, dass jedes Mal eine Hausübung auf sein oder eine Mitarbeitsüberprüfung sein wird...
 * [JavaEE-Spring-Microservices-Quarkus](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ee-micro-quark.pdf)
 * [Kotlin-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kot-ang-basics.pdf)
 * Fragen
