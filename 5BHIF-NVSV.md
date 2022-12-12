@@ -16,13 +16,39 @@ https://classroom.github.com/a/0pIFwT2Q
 
 
 
+## 10. Einheit 2022-12-19
+
+* Mitarbeitsüberprüfung
+* [JavaEE-Spring-Microservices-Quarkus](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ee-micro-quark.pdf)
+* [Kotlin-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kot-ang-basics.pdf)
+* Fragen
+  * **AOP**
+    Sie wurden von einer Firma beauftragt ein internes Caching innerhalb ihres Java-Stacks zu implementieren. Bestimmte Methoden, die lange laufen, sollen gechached werden und im Falle eines Cache-Hits soll das alte Ergebnis ausgeliefert werden.
+    Der Kunde verwendet Quarkus mit Panache als Backend.
+    * Nach welchen prinzipiellen Architekturschema würden Sie hier vorgehen?
+    * Welche beiden Möglichkeiten gibt es dieses Architekturschema zu verwenden?
+    * Nennen Sie Beispiele für Cross-Cutting-Concerns.
+    * Auf welche Art kann AOP in Quarkus angewandt werden und wie heißen die beiden Programmierkonstrukte die dabei benutzt werden können?
+      Zu welcher Library gehören diese beiden Teile?
+      Was ist der Unterschied zwischen ihnen?
+
+  * **Serverless**
+    Sie möchten in einem Betrieb beginnen, der eine Serverless-Architektur verwendet um ihr Produkt zu betreiben.
+    * Was sind die wesentlichen Bestandteile einer Serverless-Architektur?
+    * Was sind die wesentlichen Vorteile einer Serverless-Architektur?
+    * Was ist ein Cold-Start-Delay und wie kann man es zum Beispiel verhindern?
+    * Was ist ein Vendor-Lock-In und wie macht sich soetwas bemerkbar?
+
+### Hausübung
+
+Nichts
+
 
 
 ## 9. Einheit 2022-12-12
 
 * Mitarbeitsüberprüfung
 * [Message Queues](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/message-queues.pdf)
-* [JavaEE-Spring-Microservices-Quarkus](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ee-micro-quark.pdf)
 * Fragen
   * **ACID / BASE / Event Sourcing**
     * Erklären Sie das CAP-Theorem.
@@ -34,22 +60,6 @@ https://classroom.github.com/a/0pIFwT2Q
     * Beschreiben Sie Event-Sourcing.
       * Was sind die Vorteile?
       * Was sind die Nachteile?
-
-  * **AOP**
-    Sie wurden von einer Firma beauftragt ein internes Caching innerhalb ihres Java-Stacks zu implementieren. Bestimmte Methoden, die lange laufen, sollen gechached werden und im Falle eines Cache-Hits soll das alte Ergebnis ausgeliefert werden.
-    Der Kunde verwendet Quarkus mit Panache als Backend.
-    * Nach welchen prinzipiellen Architekturschema würden Sie hier vorgehen?
-    * Welche beiden Möglichkeiten gibt es dieses Architekturschema zu verwenden?
-    * Nennen Sie Beispiele für Cross-Cutting-Concerns.
-    * Auf welche Art kann AOP in Quarkus angewandt werden und wie heißen die beiden Programmierkonstrukte die dabei benutzt werden können?
-      Zu welcher Library gehören diese beiden Teile?
-      Was ist der Unterschied zwischen ihnen?
-  * **Serverless**
-    Sie möchten in einem Betrieb beginnen, der eine Serverless-Architektur verwendet um ihr Produkt zu betreiben.
-    * Was sind die wesentlichen Bestandteile einer Serverless-Architektur?
-    * Was sind die wesentlichen Vorteile einer Serverless-Architektur?
-    * Was ist ein Cold-Start-Delay und wie kann man es zum Beispiel verhindern?
-    * Was ist ein Vendor-Lock-In und wie macht sich soetwas bemerkbar?
 
 ### Hausübung
 

@@ -18,18 +18,15 @@ https://classroom.github.com/a/QTfc9_Zk
 
 
 
-## 9. Einheit 2022-12-12
+## 10. Einheit 2022-12-19
 
 * Mitarbeitsüberprüfung
-* [Message Queues](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/message-queues.pdf)
 * [JavaEE-Spring-Microservices-Quarkus](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ee-micro-quark.pdf)
+* [Kotlin-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kot-ang-basics.pdf)
 * Fragen
   * **ACID / BASE / Event Sourcing**
-    * Erklären Sie das CAP-Theorem.
-      * Wo würden Sie MariaDB platzieren?
-      * Wo würden Sie ein GIT-Projekt platzieren?
-
     * Beschreiben Sie die ACID-Kriterien.
+
     * Was ist Eventual Consistency und warum ist sie so wichtig für verteilte Systeme?
     * Beschreiben Sie Event-Sourcing.
       * Was sind die Vorteile?
@@ -44,12 +41,29 @@ https://classroom.github.com/a/QTfc9_Zk
     * Auf welche Art kann AOP in Quarkus angewandt werden und wie heißen die beiden Programmierkonstrukte die dabei benutzt werden können?
       Zu welcher Library gehören diese beiden Teile?
       Was ist der Unterschied zwischen ihnen?
+
   * **Serverless**
     Sie möchten in einem Betrieb beginnen, der eine Serverless-Architektur verwendet um ihr Produkt zu betreiben.
     * Was sind die wesentlichen Bestandteile einer Serverless-Architektur?
     * Was sind die wesentlichen Vorteile einer Serverless-Architektur?
     * Was ist ein Cold-Start-Delay und wie kann man es zum Beispiel verhindern?
     * Was ist ein Vendor-Lock-In und wie macht sich soetwas bemerkbar?
+
+### Hausübung
+
+Nichts
+
+
+
+## 9. Einheit 2022-12-12
+
+* Mitarbeitsüberprüfung
+* [Message Queues](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/message-queues.pdf)
+* Fragen
+  * **ACID / BASE / Event Sourcing**
+    * Erklären Sie das CAP-Theorem.
+      * Wo würden Sie MariaDB platzieren?
+      * Wo würden Sie ein GIT-Projekt platzieren?
 
 ### Hausübung
 
