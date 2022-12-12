@@ -5,7 +5,7 @@
 ----
 
 ### 1. Semester
-![Stundenplan](https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/img/5BHIF-Stundenplan.png?a=1)
+![Stundenplan](https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/img/5BHIF-Stundenplan.png?maxAge=1)
 
 <br>
 
