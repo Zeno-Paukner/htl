@@ -22,8 +22,11 @@ https://classroom.github.com/a/QTfc9_Zk
 
 * Mitarbeitsüberprüfung
 * Vorläufige Noten durchsehen... bis Semesterende hamma dann nach heute nur noch 6x und ich versprech nicht, dass jedes Mal eine Hausübung auf sein oder eine Mitarbeitsüberprüfung sein wird...
+* *Vorschlag Voura Alex*
+* *Vorschlag Jausen-Box*
 * [JavaEE-Spring-Microservices-Quarkus](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ee-micro-quark.pdf)
-* [Kotlin-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kot-ang-basics.pdf)
+* [Kotlin-Android-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kotlin-android-basics.pdf)
+* [Typescript-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/typescript-angular-basics.pdf)
 * Fragen
   * **ACID / BASE / Event Sourcing**
     * Beschreiben Sie die ACID-Kriterien.

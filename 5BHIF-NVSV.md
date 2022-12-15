@@ -20,8 +20,11 @@ https://classroom.github.com/a/0pIFwT2Q
 
 * Mitarbeitsüberprüfung
 * Vorläufige Noten durchsehen... bis Semesterende hamma dann nach heute nur noch 6x und ich versprech nicht, dass jedes Mal eine Hausübung auf sein oder eine Mitarbeitsüberprüfung sein wird...
+* *Vorschlag Voura Alex*
+* *Vorschlag Jausen-Box*
 * [JavaEE-Spring-Microservices-Quarkus](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ee-micro-quark.pdf)
-* [Kotlin-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kot-ang-basics.pdf)
+* [Kotlin-Android-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kotlin-android-basics.pdf)
+* [Typescript-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/typescript-angular-basics.pdf)
 * Fragen
   * **AOP**
     Sie wurden von einer Firma beauftragt ein internes Caching innerhalb ihres Java-Stacks zu implementieren. Bestimmte Methoden, die lange laufen, sollen gechached werden und im Falle eines Cache-Hits soll das alte Ergebnis ausgeliefert werden.
