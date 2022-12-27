@@ -18,7 +18,20 @@ https://classroom.github.com/a/QTfc9_Zk
 
 
 
-## 10. Einheit 2022-12-19
+## 12. Einheit 2023-01-09
+
+* [JavaEE-Spring-Microservices-Quarkus](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ee-micro-quark.pdf)
+* [Kotlin-Android-JetpackCompose-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kotlin-android-basics.pdf)
+* [Typescript-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/typescript-angluar-basics.pdf)
+* ZeroMQ Praxis-Beispiel
+  * https://github.com/UnterrainerInformatik/htl-zeromq
+  * unterrainer.info:5556,5557
+
+### Hausübung
+
+Nichts
+
+## 11. Einheit 2022-12-19
 
 * Mitarbeitsüberprüfung
 * Vorläufige Noten durchsehen... bis Semesterende hamma dann nach heute nur noch 6x und ich versprech nicht, dass jedes Mal eine Hausübung auf sein oder eine Mitarbeitsüberprüfung sein wird...
@@ -59,7 +72,7 @@ Nichts
 
 
 
-## 9. Einheit 2022-12-12
+## 10. Einheit 2022-12-12
 
 * Mitarbeitsüberprüfung
 * [Message Queues](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/message-queues.pdf)
@@ -75,7 +88,7 @@ Nichts
 
 
 
-## 8. Einheit 2022-12-05
+## 9. Einheit 2022-12-05
 
 * Mitarbeitsüberprüfung
 * [Pushing Webservers](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/pushing-webservers.pdf)
@@ -86,7 +99,7 @@ Verlängerung von letzter Woche
 
 
 
-## 7. Einheit 2022-11-28
+## 8. Einheit 2022-11-28
 
 * gRPC Demo
   https://github.com/UnterrainerInformatik/htl-grpc-client
@@ -107,8 +120,7 @@ https://grpc.io/docs/languages/
 
 
 
-
-## 6. Einheit 2022-11-21
+## 7. Einheit 2022-11-21
 
 * [Aspect Oriented Programming](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/aop.pdf)
 * [Logging](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/logging.pdf)
@@ -119,11 +131,20 @@ Nichts
 
 
 
-## 5. Einheit 2022-11-21
+## 6. Einheit 2022-11-14
+
+* [Serverless](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/serverless.pdf)
+
+### Hausübung
+
+Nichts
+
+
+
+## 5. Einheit 2022-10-17
 
 * Auflösung letzter Hausübung
 * [ACID/BASE/Event Sourcing Part 2](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/acid-base-eventsourcing.pdf)
-* [Serverless](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/serverless.pdf)
 
 ### Hausübung
 
