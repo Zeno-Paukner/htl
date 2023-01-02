@@ -23,10 +23,10 @@ object payment {
     price
 }
 
-book }|..o{ borrowData
-customer ||..o{ borrowData
-invoice }o..|| borrowData
-payment }o..|| invoice
+book "m" -- "n" borrowData
+customer "1" -- "n" borrowData
+invoice "n" -- "1" borrowData
+payment "n" -- "1" invoice
 
 object book {
     ID

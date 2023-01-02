@@ -23,6 +23,7 @@ https://classroom.github.com/a/QTfc9_Zk
 * [JavaEE-Spring-Microservices-Quarkus](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ee-micro-quark.pdf)
 * [Kotlin-Android-JetpackCompose-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kotlin-android-basics.pdf)
 * [Typescript-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/typescript-angluar-basics.pdf)
+* [Diagramme](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/diagrams.pdf)
 * ZeroMQ Praxis-Beispiel
   * https://github.com/UnterrainerInformatik/htl-zeromq
   * unterrainer.info:5556,5557

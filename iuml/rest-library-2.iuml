@@ -17,16 +17,16 @@ object invoice {
     paymentMethod
 }
 
-yearlySubscription --* customer : n
-invoice --* yearlySubscription : 1
-
 object lendout {
     date
     lendingDuration
 }
 
-lendout o-- customer : 1
-lendout o-- book : n
+yearlySubscription }o..|| customer
+invoice ||..|{ yearlySubscription
+
+lendout }o..|| customer
+lendout |o..|{ book
 
 object book {
     author
