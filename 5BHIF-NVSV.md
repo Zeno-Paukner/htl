@@ -18,16 +18,25 @@ https://classroom.github.com/a/0pIFwT2Q
 
 
 
-## 12. Einheit 2023-01-09
+## 13. Einheit 2023-01-16
 
 * [JavaEE-Spring-Microservices-Quarkus](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ee-micro-quark.pdf)
-* [Architekturstile](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/architectures.pdf)
 * [Kotlin-Android-JetpackCompose-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kotlin-android-basics.pdf)
 * [Typescript-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/typescript-angluar-basics.pdf)
-* [Diagramme](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/diagrams.pdf)
 * ZeroMQ Praxis-Beispiel
   * https://github.com/UnterrainerInformatik/htl-zeromq
   * unterrainer.info:5556,5557
+
+### Hausübung
+
+Nichts
+
+
+
+## 12. Einheit 2023-01-09
+
+* [Architekturstile](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/architectures.pdf)
+* [Diagramme](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/diagrams.pdf)
 
 ### Hausübung
 
