@@ -18,12 +18,24 @@ https://classroom.github.com/a/QTfc9_Zk
 
 
 
-## 13. Einheit 2023-01-16
+## 14. Einheit 2023-01-23
 
-* [JavaEE-Spring-Microservices-Quarkus](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ee-micro-quark.pdf)
+* Mitarbeitsüberprüfung
+* Build-Pipeline von Zero-MQ Beispiel herzeigen und kurz durchgehen
 * [CI/CD](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ci-cd.pdf)
 * [Kotlin-Android-JetpackCompose-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kotlin-android-basics.pdf)
 * [Typescript-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/typescript-angluar-basics.pdf)
+
+### Hausübung
+
+Nichts
+
+
+
+## 13. Einheit 2023-01-16
+
+* Mitarbeitsüberprüfung
+* [JavaEE-Spring-Microservices-Quarkus](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ee-micro-quark.pdf)
 * ZeroMQ Praxis-Beispiel
   * https://github.com/UnterrainerInformatik/htl-zeromq
   * unterrainer.info:5556,5557
