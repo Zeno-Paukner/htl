@@ -18,18 +18,43 @@ https://classroom.github.com/a/0pIFwT2Q
 
 
 
-## 14. Einheit 2023-01-23
+## 16. Einheit 2023-02-06
 
 * Mitarbeitsüberprüfung
 * [CI/CD](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ci-cd.pdf)
 * [Kotlin-Android-JetpackCompose-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kotlin-android-basics.pdf)
 * [Typescript-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/typescript-angluar-basics.pdf)
+* Fragen
+  * **Kommunikation verteilter Systeme**
+    * Was ist ein verteiltes System?
+    * Welche Möglichkeiten gibt es für Komponenten verteilter Systeme miteinander zu kommunizieren?
+      (Beschreiben sie folgende Stichworte in diesem Kontext)
+      * Synchron, Asynchron
+      * 1-Wege, 2-Wege
+      * Enge Kopplung / Lose Kopplung
+      * REST (HTTP), gRPC, Kafka, Message Brokers (RabbitMQ, ZeroMQ zum selber bauen)
+    * Warum würde man bei hoch performanten Systemen eher nicht REST (HTTP) verwenden?
+    * Was heißt pull-based / push-based bei Message Brokern?
+
+
 
 ### Hausübung
 
 Nichts
 
 
+
+## 15. Einheit 2023-01-30
+
+* Entfallen
+
+  
+
+## 14. Einheit 2023-01-23
+
+* Entfallen
+
+  
 
 ## 13. Einheit 2023-01-16
 
