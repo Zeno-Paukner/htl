@@ -18,11 +18,10 @@ https://classroom.github.com/a/QTfc9_Zk
 
 
 
-## 16. Einheit 2023-02-06
+## 17. Einheit 2023-02-13
 
 * Mitarbeitsüberprüfung
-* Build-Pipeline von Zero-MQ Beispiel herzeigen und kurz durchgehen
-* [CI/CD](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ci-cd.pdf)
+* [CI/CD](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ci-cd.pdf) ab "Deploy - Wie bekomme ich mein Programm auf den Rechner beim Kunden"
 * [Kotlin-Android-JetpackCompose-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kotlin-android-basics.pdf)
 * [Typescript-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/typescript-angluar-basics.pdf)
 * Fragen
@@ -36,6 +35,17 @@ https://classroom.github.com/a/QTfc9_Zk
       * REST (HTTP), gRPC, Kafka, Message Brokers (RabbitMQ, ZeroMQ zum selber bauen)
     * Warum würde man bei hoch performanten Systemen eher nicht REST (HTTP) verwenden?
     * Was heißt pull-based / push-based bei Message Brokern?
+
+### Hausübung
+
+Nichts
+
+
+
+## 16. Einheit 2023-02-06
+
+* Mitarbeitsüberprüfung
+* [CI/CD](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ci-cd.pdf) bis "Deploy - Wie bekomme ich mein Programm auf den Rechner beim Kunden"
 
 ### Hausübung
 

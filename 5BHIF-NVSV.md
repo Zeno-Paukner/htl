@@ -18,10 +18,10 @@ https://classroom.github.com/a/0pIFwT2Q
 
 
 
-## 16. Einheit 2023-02-06
+## 17. Einheit 2023-02-13
 
 * Mitarbeitsüberprüfung
-* [CI/CD](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ci-cd.pdf)
+* [CI/CD](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ci-cd.pdf) nochmal "Environment Variables - Quarkus"
 * [Kotlin-Android-JetpackCompose-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kotlin-android-basics.pdf)
 * [Typescript-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/typescript-angluar-basics.pdf)
 * Fragen
@@ -36,7 +36,16 @@ https://classroom.github.com/a/0pIFwT2Q
     * Warum würde man bei hoch performanten Systemen eher nicht REST (HTTP) verwenden?
     * Was heißt pull-based / push-based bei Message Brokern?
 
+### Hausübung
 
+Nichts
+
+
+
+## 16. Einheit 2023-02-06
+
+* Mitarbeitsüberprüfung
+* [CI/CD](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ci-cd.pdf)
 
 ### Hausübung
 
