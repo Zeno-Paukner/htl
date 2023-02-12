@@ -22,6 +22,7 @@ https://classroom.github.com/a/QTfc9_Zk
 
 * Mitarbeitsüberprüfung
 * [CI/CD](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/ci-cd.pdf) ab "Deploy - Wie bekomme ich mein Programm auf den Rechner beim Kunden"
+* [GraphQL](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/graphql.pdf)
 * [Kotlin-Android-JetpackCompose-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kotlin-android-basics.pdf)
 * [Typescript-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/typescript-angluar-basics.pdf)
 * Fragen
