@@ -1,0 +1,266 @@
+@startmindmap
+
+*[#OrangeRed] Referatsthemen
+
+**[#LightBlue] P1 Netzwerktechnologien
+
+
+**[#LightBlue] P2 Netzwerkdienste
+
+
+**[#LightBlue]:P3 Netzwerkmanagement &
+Netzwerksicherheit;
+
+
+**[#DodgerBlue] J4 Enterprise Architekturen
+
+***[#LawnGreen] Testing
+****[#LightGoldenRodYellow] Frontend
+*****_ Selenium
+******_:Beispiel mit Selenium
+& Java;
+*****_ Graphene
+****[#LightGoldenRodYellow] Backend
+*****_ JPA
+******_:JavaSE-JUnit Client,
+der Korrektheit eines
+Datenmodells prüft;
+*****_ REST loadtesting mit Galing
+*****_ Cucumber
+*****_ REST API testing mit Karate
+*****_ RESTasured
+*****_ Testcontainers
+****[#LightGoldenRodYellow] Theorie
+
+***[#LawnGreen] CDI
+****[#LightGoldenRodYellow] Konzepte
+*****_ @Inject vs. @EJB
+*****_ Events
+******_ Synchronous
+******_ Asynchronous
+*****_ Decorators
+*****_ Interceptors
+****[#LightGoldenRodYellow] Implementierungen
+*****_ ArC (Quarkus)
+*****_ Seam
+*****_ Weld
+
+***[#LawnGreen] JDBC
+****[#LightGoldenRodYellow] Historie
+****[#LightGoldenRodYellow] Anwendungsbeispiel
+****[#LightGoldenRodYellow] Abgrenzung JPQL / JPA
+
+***[#LawnGreen] Security
+****[#LightGoldenRodYellow] OpenID Connect (KeyCloak)
+*****_ Codebeispiel
+*****_ Two-Factor Authentication
+****[#LightGoldenRodYellow] Methods of Authentication
+*****_ Basic Auth
+*****_ Bearer / Webtoken
+*****_ OAuth2
+*****_:ContainerAuthentication,
+ServletFilter;
+****[#LightGoldenRodYellow] Probleme bei Security
+*****_ SSH
+*****_ CORS
+*****_ Reverse Proxy (Traefik)
+
+***[#LawnGreen] Zugriff auf Datenbanken
+****[#LightGoldenRodYellow] RDB vs. noSQL
+****[#LightGoldenRodYellow] Kafka
+****[#LightGoldenRodYellow] Reactive vs. imperative
+****[#LightGoldenRodYellow] JPA
+*****_ Concurrency (@Version)
+*****_:Codebeispiel mit Tests, um
+Concurrency zu zeigen;
+*****_ Frameworks
+******_ Hibernate
+******_ Eclipselink
+******_ Panache
+
+***[#LawnGreen] Electron
+
+***[#LawnGreen] RMI
+
+***[#LawnGreen] JavaFX
+
+***[#LawnGreen] JakartaEE AppServers
+****[#LightGoldenRodYellow] Wildfly
+****[#LightGoldenRodYellow] Payara
+****[#LightGoldenRodYellow] OpenLiberty
+****[#LightGoldenRodYellow] TomEE
+
+***[#LawnGreen] JakartaEE MicroProfile
+****[#LightGoldenRodYellow] Health Checks
+****[#LightGoldenRodYellow] openAPI
+****[#LightGoldenRodYellow] openTracing
+****[#LightGoldenRodYellow] metrics
+****[#LightGoldenRodYellow] Fault-tolerance
+*****_ Resiliance4j
+*****_ Circuit Breaker
+
+***[#LawnGreen] Reactive vs. imperative
+****[#LightGoldenRodYellow] Codebeispiel mit Quarkus
+*****_ einfaches Beispiel
+******_ imperativ programmiert
+******_ reactive programmiert
+****[#LightGoldenRodYellow] Publisher-Subsriber-Pattern
+
+
+**[#DodgerBlue] J5 Webapplikationen
+
+***[#LawnGreen] Java Webtechnologien
+****[#LightGoldenRodYellow] Servlets
+*****_ Codebeispiel
+****[#LightGoldenRodYellow] Java Server Pages (JSP)
+*****_ Codebeispiel
+*****_ JSTL
+*****_ Schleifen
+*****_ embedded Java code
+*****_ EL
+****[#LightGoldenRodYellow] Java Server Faces (JSF)
+*****_ Codebeispiel
+*****_ Primefaces
+*****_:Mojarra
+(Referenzimplementierung);
+*****_ Bean validation
+****[#LightGoldenRodYellow] Qute (nur für Quarkus)
+*****_ Codebeispiel
+
+***[#LawnGreen] Flutter / Firebase / Serverless
+****[#LightGoldenRodYellow] Theorie
+*****_ Serverless
+*****_:Abgrenzung zu anderen
+Technologien;
+
+***[#LawnGreen] Angular Clients
+****[#LightGoldenRodYellow] Codebeispiel
+*****_ Datenbank
+*****_ CRUD-Funktionalität
+*****_:Daten in Tabellenform
++ lazy loading;
+****[#LightGoldenRodYellow] Authentifizierung bei KeyCloak
+****[#LightGoldenRodYellow] Aufbau einer Angular-App
+****[#LightGoldenRodYellow] Konzepte von Angular
+
+***[#LawnGreen] Datenformate
+****[#LightGoldenRodYellow] Anwendung
+*****_ Validierung
+******_ der Struktur
+******_ des Inhaltes
+*****_ Navigation
+****[#LightGoldenRodYellow] Ausprägungen
+*****_ XML
+*****_ JSON
+*****_ YAML
+*****_ TOML
+****[#LightGoldenRodYellow] Libraries
+*****_ GSON
+*****_ Jackson
+*****_ JSON-B
+*****_ JSON-P
+
+***[#LawnGreen] Client-Server Kommunkikation
+****[#LightGoldenRodYellow] SOAP
+*****_ WSDL
+****[#LightGoldenRodYellow] REST
+*****_ Jersey
+*****_ RESTeasy
+****[#LightGoldenRodYellow] gRPC
+****[#LightGoldenRodYellow] Websockets
+****[#LightGoldenRodYellow] SSE
+****[#LightGoldenRodYellow] graphQL
+****[#LightGoldenRodYellow] Webhooks
+
+***[#LawnGreen] JavaScript & Frameworks
+****[#LightGoldenRodYellow] Angular
+****[#LightGoldenRodYellow] React
+****[#LightGoldenRodYellow] VueJS
+****[#LightGoldenRodYellow] Components
+*****_ Typescript vs. JavaScript
+*****_ Templating (lit-html)
+
+
+**[#DodgerBlue]:J6 Client-Server Architekturen
+& Mobile Computing;
+
+***[#LawnGreen] Android
+****[#LightGoldenRodYellow] Fragments
+****[#LightGoldenRodYellow] Provider
+****[#LightGoldenRodYellow] Services
+****[#LightGoldenRodYellow] Database
+****[#LightGoldenRodYellow] Sicherheit in neueren Versionsn
+****[#LightGoldenRodYellow] Jetpack Compose
+
+***[#LawnGreen] JavaFX
+****[#LightGoldenRodYellow] Codebeispiel
+*****_:JavaFX Client mit Verbindung
+zu Quarkus REST-Backend;
+
+***[#LawnGreen] Docker
+****[#LightGoldenRodYellow] Docker
+*****_:Pushen von images
+in Docker Registry;
+****[#LightGoldenRodYellow] Docker-compose
+*****_ MySQL
+*****_ Wildfly
+*****_ NodeJs / nginx
+****[#LightGoldenRodYellow] Docker Swarm & Kubernetes
+
+***[#LawnGreen] Kubernetes
+****[#LightGoldenRodYellow] Minikube
+****[#LightGoldenRodYellow] LeoCloud
+****[#LightGoldenRodYellow] jib, s2i, ...
+
+
+**[#DodgerBlue]:J7 Systemnahe &
+hardwarenahe Programmierung;
+
+***[#LawnGreen] Messaging
+****[#LightGoldenRodYellow] MQTT
+*****_ Publisher-Subscriber Pattern
+*****_ Mosquitto
+*****_ Abgrenzung zu openHAB
+*****_ Simulation
+*****_ use in a Quarkus App
+****[#LightGoldenRodYellow] Kafka
+****[#LightGoldenRodYellow] JMS
+
+***[#LawnGreen] Environment variables
+****[#LightGoldenRodYellow] Beispiele
+*****_ JAVA_HOME
+*****_ MVN_HOME
+****[#LightGoldenRodYellow] Bedeutung in CI/CD
+*****_ docker-compose
+*****_ Java
+
+***[#LawnGreen] ShellScripts
+****[#LightGoldenRodYellow] Bedeutung in CI/CD
+*****_ Deployment
+*****_ docker-compose
+
+***[#LawnGreen] AMQP
+****[#LightGoldenRodYellow] RabbitMQ
+
+***[#LawnGreen] openHAB
+****[#LightGoldenRodYellow] Überblick
+****[#LightGoldenRodYellow] Use-cases
+****[#LightGoldenRodYellow] Abgrenzung zu MQTT
+
+***[#LawnGreen] Raspberry
+****[#LightGoldenRodYellow] openHAB
+
+***[#LawnGreen] IoT
+****[#LightGoldenRodYellow] Arduino IDE
+****[#LightGoldenRodYellow] platformIO
+*****_ Atom
+****[#LightGoldenRodYellow] Sensoren
+****[#LightGoldenRodYellow] Aktoren
+****[#LightGoldenRodYellow] I2C
+****[#LightGoldenRodYellow] ESP8266
+****[#LightGoldenRodYellow] ESP32
+
+***[#LawnGreen] ChatBots
+****[#LightGoldenRodYellow] lauffähiges Codebeispiel
+
+@endmindmap
