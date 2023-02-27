@@ -74,7 +74,7 @@
 
 ### Hausübung
 
-Nichts
+* Systemarchitektur - Komponentendiagramm von Übungsfrage 9
 
 
 
