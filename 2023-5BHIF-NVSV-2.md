@@ -14,10 +14,22 @@
 
 
 
+## 2. Einheit 2023-03-06
+
+* [Typescript-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/typescript-angluar-basics.pdf)
+
+* Übungsfragen
+
+  ### Hausübung
+
+  Nichts
+
+  
+
 ## 1. Einheit 2023-02-27
 
 * [Kotlin-Android-JetpackCompose-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/kotlin-android-basics.pdf)
-* [Typescript-Angular-Basics](https://github.com/UnterrainerInformatik/htl/blob/master/presentations/typescript-angluar-basics.pdf)
+
 * Übungsfragen
 
   | NAME              | Prüfungsfrage | Termin     |
