@@ -7,19 +7,13 @@ Auch erreichbar unter https://bit.ly/LeoHtl
 
 ### 5BHIF
 
-* [NVSV (5B. Klasse)][nvsv5b]
-* [NVSV Referatsthemen][nvsv5bref]
+* [NVSV (5B. Klasse)](2023-5BHIF-NVSV-2.md)
 
 ### 5CHIF
 
-* [NVSV (5C. Klasse)][nvsv5c]
-* [NVSV Referatsthemen][nvsv5cref]
+* [NVSV (5C. Klasse)](2023-5CHIF-NVSV-2.md)
 
 <br>
-
-<br>
-
-* [NVSV Referatsthemen - Vorschläge 2023][nvsv5referate]
 
 
 
