@@ -21,8 +21,12 @@
 
   ### Hausübung
 
-  #### Homework-Organizer: First Backend Code
+  #### Abgabe
 
+  Selbes Repository wie letztes Mal.
+  
+  #### Homework-Organizer: First Backend Code
+  
   1. Guide https://quarkus.io/guides/rest-data-panache folgen
      1. PostgreSQL als Datenbank nehmen
      2. Datenbank richtig konfigurieren
@@ -50,8 +54,12 @@
 
   ### Hausübung
 
-  #### Homework-Organizer: Project Setup
+  #### Abgabe
 
+  https://classroom.github.com/a/0AF29AHB
+  
+  #### Homework-Organizer: Project Setup
+  
   1. IntelliJ Community Edition zum laufen bringen (oder Ultimate, wer noch einen gültigen Key hat. Aber Community Edition reicht völlig.)
   2. Folgendes sollte auf eurem Rechner installiert sein und laufen:
      1. Docker (Desktop)
