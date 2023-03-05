@@ -39,6 +39,8 @@
 
      ![Screenshot](https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/img/2023-NVSV-homework-organizer-2.png?maxAge=1)
 
+     ![Screenshot](https://raw.githubusercontent.com/UnterrainerInformatik/htl/master/img/2023-NVSV-homework-organizer-3.png?maxAge=1)
+
      
 
 ## 2. Einheit 2023-03-06
@@ -59,7 +61,7 @@
      1. Artifact Group und ID aussuchen (bei mir 'info.unterrainer.htl' und 'homework-organizer')
      2. Mit Filter `REST resources for Hibernate ORM with Panache` raussuchen und anhaken
   4. Repo lokal klonen, im IntelliJ öffnen und starten
-     Anleitung zum Starten aus Konsole heraus steht in README.md.
+     Anleitung zum Starten aus Konsole heraus steht in README.md. (**EMPFOHLEN**, weil es dann auch immer updated, wenn Ihr Änderungen macht).
      Ihr könnt es aber auch aus IntelliJ heraus starten
      1. Build-Settings - Plugins
      2. `Quarkus Run Configs` und `Quarkus Tools`
