@@ -110,6 +110,10 @@
 
 ### Hausübung
 
+#### Abgabe
+
+https://classroom.github.com/a/YXjpZAcg
+
 * Systemarchitektur - Komponentendiagramm von Übungsfrage 9
 
 
