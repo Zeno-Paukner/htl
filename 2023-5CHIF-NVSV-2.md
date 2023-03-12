@@ -63,7 +63,7 @@
   1. IntelliJ Community Edition zum laufen bringen (oder Ultimate, wer noch einen gültigen Key hat. Aber Community Edition reicht völlig.)
   2. Folgendes sollte auf eurem Rechner installiert sein und laufen:
      1. Docker (Desktop)
-     2. Java JDK 17 (https://adoptium.net/download/)
+     2. Java JDK 17 (https://adoptium.net/)
   3. https://code.quarkus.io/
      1. Artifact Group und ID aussuchen (bei mir 'info.unterrainer.htl' und 'homework-organizer')
      2. Mit Filter `REST resources for Hibernate ORM with Panache` raussuchen und anhaken
